@@ -1,7 +1,5 @@
----
-subtitle: VERSLAG
-title: 'UB2030 \| 02 \| Future of Research Data Management'
----
+# UB2030 - 02 - Future of Research Data Management
+**SAMENVATTING & VERSLAG**
 
 Verslag over de universiteitsbibliotheek die moet innoveren vanwege de
 snel veranderende technologische ontwikkelingen, en de veranderingen in
@@ -71,47 +69,40 @@ driehoek. De toekomstdriehoek is een eenvoudig instrument, ontwikkeld
 door Sohail Inayatullah[^1], om verleden, heden en toekomst in kaart te
 brengen en zo de ruimte van waarschijnlijke toekomsten te verkennen.
 
--   \*\*Druk van het heden\*\*:
+**Druk van het heden**:
 
-    -   Er is een groeiende behoefte aan goed research data management
-        en research software management bij universiteiten.
+-   Er is een groeiende behoefte aan goed research data management
+    en research software management bij universiteiten.
+-   Deze behoefte komt voort uit zorgen over data-eigenaarschap,
+    privacy, en eisen vanuit de politiek.
+-   Er zijn uitdagingen rondom hoeveel data opgeslagen moet worden,
+    gezien zorgen over internationale kennisveiligheid en
+    milieueffecten.
 
-    -   Deze behoefte komt voort uit zorgen over data-eigenaarschap,
-        privacy, en eisen vanuit de politiek.
+**Aantrekkingskracht van de toekomst**:
 
-    -   Er zijn uitdagingen rondom hoeveel data opgeslagen moet worden,
-        gezien zorgen over internationale kennisveiligheid en
-        milieueffecten.
+-   Er liggen kansen voor onderzoekers om meer samen te werken en
+    hun onderzoek te verbeteren door goede data management
+    praktijken.
+-   Het doel is om het makkelijker te maken voor onderzoekers om met
+    deze uitdagingen om te gaan, zonder de verantwoordelijkheid voor
+    dataverwerking uit het oog te verliezen.
+-   Er is een visie waarin wetenschappelijke data en software
+    management worden beschouwd als integrale onderdelen van
+    onderzoek. Ze gaan als het ware moeiteloos op in het
+    onderzoeksproces, en vormen geen enkele obstakel meer.
 
--   \*\*Aantrekkingskracht van de toekomst\*\*:
+**Gewicht van het verleden**:
 
-    -   Er liggen kansen voor onderzoekers om meer samen te werken en
-        hun onderzoek te verbeteren door goede data management
-        praktijken.
-
-    -   Het doel is om het makkelijker te maken voor onderzoekers om met
-        deze uitdagingen om te gaan, zonder de verantwoordelijkheid voor
-        dataverwerking uit het oog te verliezen.
-
-    -   Er is een visie waarin wetenschappelijke data en software
-        management worden beschouwd als integrale onderdelen van
-        onderzoek. Ze gaan als het ware moeiteloos op in het
-        onderzoeksproces, en vormen geen enkele obstakel meer.
-
--   \*\*Gewicht van het verleden\*\*:
-
-    -   Niet iedereen heeft de vaardigheden om te programmeren of om
-        geavanceerde software tools te gebruiken.
-
-    -   Er is een historisch gebrek aan standaardisatie, wat heeft
-        geleid tot inconsistenties in hoe data wordt opgeslagen en
-        beheerd.
-
-    -   Er zijn bestaande systemen en processen die misschien niet
-        optimaal zijn voor de huidige behoeften en uitdagingen.
-
-    -   Financieringsstructuur van onderzoek op project basis is niet
-        geschikt voor duurzame (langdurige) opslag.
+-   Niet iedereen heeft de vaardigheden om te programmeren of om
+    geavanceerde software tools te gebruiken.
+-   Er is een historisch gebrek aan standaardisatie, wat heeft
+    geleid tot inconsistenties in hoe data wordt opgeslagen en
+    beheerd.
+-   Er zijn bestaande systemen en processen die misschien niet
+    optimaal zijn voor de huidige behoeften en uitdagingen.
+-   Financieringsstructuur van onderzoek op project basis is niet
+    geschikt voor duurzame (langdurige) opslag.
 
 Samengevat, universiteiten ervaren druk vanwege huidige eisen en zorgen
 omtrent datamanagement, maar zien ook de potentie van toekomstige
@@ -125,98 +116,95 @@ Om de aantrekkingskracht van de toekomst te realiseren op het gebied van
 research data management en research software management, zijn de
 volgende stappen essentieel:
 
-Zeker! Hieronder is het herziene stappenplan met een aanpak voor de
-financieringsstructuur:
+**Stappenplan voor het realiseren van de visie uit de
+aantrekkingskracht:**
 
-\*\*Stappenplan voor het realiseren van de visie uit de
-aantrekkingskracht:\*\*
+**Korte termijn (0-1 jaar)**:
 
-\*\*Korte termijn (0-1 jaar)\*\*:
-
-1.  \*\*Behoefteanalyse\*\*:
+1.  **Behoefteanalyse**:
 
     a.  Analyseer de huidige behoeften en uitdagingen van onderzoekers
-        > op het gebied van data management en software tools.
+        op het gebied van data management en software tools.
 
     b.  Identificeer kritieke gebieden waar onmiddellijke verbetering
-        > nodig is.
+        nodig is.
 
-2.  \*\*Basisopleiding en bewustwording\*\*:
+2.  **Basisopleiding en bewustwording**:
 
     a.  Ontwikkel en bied basistrainingen aan voor het gebruik van
-        > softwaretools en programmeren.
+        softwaretools en programmeren.
 
     b.  Start bewustwordingscampagnes om het belang van goede data
-        > management praktijken te benadrukken.
+        management praktijken te benadrukken.
 
-3.  \*\*Eerste stappen naar standaardisatie\*\*:
+3.  **Eerste stappen naar standaardisatie**:
 
     a.  Begin met het ontwikkelen van gestandaardiseerde protocollen
-        > voor de meest kritieke en veelgebruikte datasets.
+        voor de meest kritieke en veelgebruikte datasets.
 
-4.  \*\*Heroverweging financieringsstructuur\*\*:
+4.  **Heroverweging financieringsstructuur**:
 
     a.  Start gesprekken met financieringsorganen en universitaire
-        > leiderschap over de uitdagingen van projectgebaseerde
-        > financiering voor langdurige data opslag.
+        leiderschap over de uitdagingen van projectgebaseerde
+        financiering voor langdurige data opslag.
 
     b.  Onderzoek alternatieve financieringsmodellen die duurzame opslag
-        > kunnen ondersteunen.
+        kunnen ondersteunen.
 
-\*\*Middellange termijn (1-3 jaar)\*\*:
+**Middellange termijn (1-3 jaar)**:
 
-1.  \*\*Geavanceerde opleiding en ondersteuning\*\*:
+1.  **Geavanceerde opleiding en ondersteuning**:
 
     a.  Breid de opleidingsprogramma\'s uit met geavanceerdere
-        > cursussen.
+        cursussen.
 
     b.  Zet ondersteuningsteams op om onderzoekers te helpen bij
-        > technische uitdagingen.
+        technische uitdagingen.
 
-2.  \*\*Implementatie van geavanceerde softwaretools\*\*:
+2.  **Implementatie van geavanceerde softwaretools**:
 
     a.  Na evaluatie van de behoeften, begin met de implementatie en
-        > integratie van geavanceerde softwaretools in de
-        > onderzoeksworkflow.
+        integratie van geavanceerde softwaretools in de
+        onderzoeksworkflow.
 
-3.  \*\*Volledige standaardisatie en interoperabiliteit\*\*:
+3.  **Volledige standaardisatie en interoperabiliteit**:
 
     a.  Werk aan de volledige standaardisatie van datamanagement
-        > protocollen.
+        protocollen.
 
     b.  Introduceer mechanismen om de interoperabiliteit tussen
-        > verschillende datasets en softwaretools te waarborgen.
+        verschillende datasets en softwaretools te waarborgen.
 
-4.  \*\*Implementatie van nieuwe financieringsmodellen\*\*:
+4.  **Implementatie van nieuwe financieringsmodellen**:
 
     a.  Na goedkeuring, implementeer de nieuwe financieringsmodellen die
-        > duurzame opslag ondersteunen.
+        duurzame opslag ondersteunen.
 
     b.  Monitor en evalueer de effectiviteit van deze modellen in de
-        > praktijk.
+        praktijk.
 
-\*\*Lange termijn (3-5 jaar)\*\*:
+**Lange termijn (3-5 jaar)**:
 
-1.  \*\*Herziening en optimalisatie\*\*:
+1.  **Herziening en optimalisatie**:
 
     a.  Evalueer de geïmplementeerde systemen en processen om eventuele
-        > tekortkomingen of uitdagingen te identificeren.
+        tekortkomingen of uitdagingen te identificeren.
 
     b.  Werk continu aan het optimaliseren van deze systemen op basis
-        > van feedback en technologische vooruitgang.
+        van feedback en technologische vooruitgang.
 
-2.  \*\*Promotie van samenwerking\*\*:
+2.  **Promotie van samenwerking**:
 
     a.  Creëer platforms en mogelijkheden voor onderzoekers om samen te
-        > werken, data te delen en best practices uit te wisselen.
+        werken, data te delen en best practices uit te wisselen.
 
-3.  \*\*Integratie van data en software management in
-    > onderzoeksprocessen\*\*:
+3.  **Integratie van data en software management in
+    onderzoeksprocessen**:
 
     a.  Zorg ervoor dat wetenschappelijke data en software management
-        > volledig zijn geïntegreerd in het onderzoeksproces en
-        > gemakkelijk toegankelijk en bruikbaar zijn voor alle
-        > onderzoekers.
+        volledig zijn geïntegreerd in het onderzoeksproces en
+        gemakkelijk toegankelijk en bruikbaar zijn voor alle
+        onderzoekers.
 
 Met deze toevoeging wordt er aandacht besteed aan de uitdaging van de
 financieringsstructuur en worden er stappen ondernomen om deze uitdaging

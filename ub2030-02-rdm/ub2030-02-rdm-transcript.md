@@ -1,10 +1,6 @@
----
-title: 'Aflevering 02 -- Toekomst van Research Data Management en
-  Research Software Management'
----
+# Aflevering 02 -- Toekomst van Research Data Management en Research Software Management
 
-\# Introductie
-==============
+# Introductie
 
 *Maurice:* Welkom bij UB 2030, de podcast over de
 universiteitsbibliotheek die moet innoveren vanwege de snel veranderende
@@ -28,8 +24,8 @@ de VU.
 *David:* En Marcel Ras, coördinator van het VU netwerk research data
 support. Oftewel, nerds.
 
-\# Wat is Research Data Management?
-===================================
+## Wat is Research Data Management?
+
 
 *David:* Om te beginnen met Marcel, kun je in twee zinnen uitleggen wat
 we eigenlijk verstaan onder RDM en RSM?
@@ -153,7 +149,7 @@ onderzoekers om hun data te managen of om hun software te managen.
 Sommigen wel, sommigen vinden het belangrijk, maar niet iedereen. Dat
 moet je ook meenemen in hoe je het vervolgens gaat opzetten.
 
-\# Toekomst driehoek\
+## Toekomst driehoek
 *Maurice:* Ja, precies. Ik zie dat Meron nog iets wou toevoegen, maar we
 gaan even door naar The Futures Triangle. Want we gaan de toekomst van
 research data management en research software management schetsen aan de
@@ -167,8 +163,8 @@ aantrekkingskracht van de toekomst. De spanning en interactie tussen
 deze drie krachten in die driehoek creëert de ruimte waarbinnen de meest
 waarschijnlijke toekomst zich kan afspelen.
 
-\# Druk van het Heden
-=====================
+## Druk van het Heden
+
 
 *Maurice:* We beginnen dan bij het heden, en daar hadden we het nu al een
 beetje over, hè, over de economische factoren en ook over beleidsmatige
@@ -421,8 +417,7 @@ geven en mogelijkheid en subsidiëring voor te geven, daar mist nog een
 klein beetje momenteel. Dat zou op een nationaal vlak kunnen, dat kan
 ook binnen een instituut zelf, maar daar valt zeker nog iets te winnen.
 
-\# Aantrekkingskracht van de toekomst
-=====================================
+## Aantrekkingskracht van de toekomst
 
 *Maurice:* Ik hoor het inderdaad, Meron, dat we richting recognition
 rewards, de team science en de deelgenoten, die in het wetenschappelijke
@@ -707,8 +702,7 @@ natuurlijk, waarbij je dus dataopslag in DNA hebt natuurlijk.
 
 *Marcel:* Absoluut.
 
-\# Gewicht van het verleden
-===========================
+## Gewicht van het verleden
 
 *Maurice:* DNA is natuurlijk wel een hele goeie. De dubbele helix is
 natuurlijk een hele goede databewaarplaats. Er zijn ontwikkelingen die
@@ -827,8 +821,7 @@ legacy is, blijft die ook gewoon wel een langere periode bestaan. Je
 krijgt nieuwe versies, maar dat is soepeler dan elke keer van de ene
 standaard naar een andere standaard doorswitchen.
 
-\# Conclusie
-============
+## Conclusie
 
 *David:* We lopen tegen het einde van de podcast aan. Ik ga even
 proberen in twee zinnen, misschien iets meer, een korte samenvatting te
@@ -873,8 +866,7 @@ wetenschappelijke data en software ook als first-class citizens worden
 gezien van het onderzoek. Dat vind ik de belangrijkste take-away van
 vandaag. Ik denk dat we hiermee dit kunnen afronden.
 
-\# Promo
-========
+## Promo
 
 Maurice: Tot slot, hebben jullie nog wat te promoten? Naar welke
 websites moet de luisteraar naartoe? We gaan het rondje even af. Marcel,
