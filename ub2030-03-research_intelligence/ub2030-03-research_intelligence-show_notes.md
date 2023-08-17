@@ -7,16 +7,16 @@
 
 | Field Name       | Field Value    |
 | ---              | ---            |
-| Cover Image      | ![cover image](https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-research_intelligence-cover_image.jpg) |
+| Cover Image      | ![cover image](ub2030-03-research_intelligence-cover_image.jpg) <br/>https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-research_intelligence-cover_image.jpg |
 | Title            | UB2030 - 03 - Toekomst van Research Intelligence |
 | Permalink        | ub2030-03-research_intelligence |
 | Genre            | Science |
 | Tags             | Podcast UB2030 Futuring |
 | Description      | UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. In aflevering 3 bespreken Maurice Vanderfeesten en David Oldenhof de toekomst van Research Intelligence. Ze willen weten hoe de ideale situatie in 2030 eruitziet, welke factoren voor verandering zorgen, de uitdagingen vanuit het verleden en de invloed van huidige technologische trends. |
 Privacy          | Public
-Audio            | <https://github.com/ubvu/ub2030/blob/main/ub2030-02-rdm/ub2030-02-rdm-audio.m4a>
-Transcript       | <https://github.com/ubvu/ub2030/blob/main/ub2030-02-rdm/ub2030-02-rdm-transcript.md>
-Summary & Report | <https://github.com/ubvu/ub2030/blob/main/ub2030-02-rdm/ub2030-02-rdm-report.md>
+Audio            | <https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-research_intelligence-audio.m4a>
+Transcript       | <https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-research_intelligence-transcript.md>
+Summary & Report | <https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-research_intelligence-report.md>
 
 
 ## Extended Info
