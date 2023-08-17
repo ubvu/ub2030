@@ -1,9 +1,9 @@
-#### **UB030 - 03 - Toekomst van Research Intelligence**
+# U2B030 - 03 - Toekomst van Research Intelligence
 *SHOW NOTES*
 
 ---
 
-#### **Basic Info**
+## Basic Info
 
 | Field Name       | Field Value    |
 | ---              | ---            |
@@ -12,7 +12,7 @@
 | Permalink        | ub2030-03-research_intelligence |
 | Genre            | Science |
 | Tags             | Podcast UB2030 Futuring |
-| Description      | UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. In aflevering 3 bespreken Maurice Vanderfeesten en David Oldenhof de toekomst van Research Intelligence. Ze willen weten hoe de ideale situatie in 2030 eruitziet, welke factoren voor verandering zorgen, de uitdagingen vanuit het verleden en de invloed van huidige technologische trends. |
+| Description      | UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek vanwege technologische veranderingen en verschuivingen in het onderzoeks- en onderwijslandschap. In aflevering 3, getiteld "Toekomst van Research Intelligence", bespreken Maurice Vanderfeesten en David Oldenhof de toekomst van research intelligence. Ze worden vergezeld door gastexperts Matthijs de Zwaan en Rik Iping. Tijdens het gesprek wordt research intelligence gedefinieerd als het proces van het toevoegen van waarde door het verzamelen, analyseren en interpreteren van onderzoeksdata. Er wordt gespeculeerd over de ideale toekomst van research intelligence in 2030, met een focus op technologische trends zoals AI en wetenschappelijke kennisgrafieken. De discussie belicht ook de huidige technologische ontwikkelingen en hun impact, en de mogelijke weerstanden tegen verandering vanuit een historisch perspectief. |
 Privacy          | Public
 Audio            | <https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-research_intelligence-audio.m4a>
 Transcript       | <https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-research_intelligence-transcript.md>
