@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <!-- Podcast Information -->
+        <title>UB2030</title>
+        <link>https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek</link>
+        <language>en-us</language>
+        <itunes:author>Universiteitsbibliotheek Vrije Universiteit Amsterdam</itunes:author>
+        <description>UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs.</description>
+        <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-cover_image.jpg" />
+
+        <!-- Episode Information -->
+        <item>
+            <title>UB2030 - 05 - Toekomst van Research Support</title>
+            <itunes:author>Universiteitsbibliotheek Vrije Universiteit Amsterdam</itunes:author>
+            <description>UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. In aflevering 05 bespreken Maurice Vanderfeesten en David Oldenhof het onderwerp Research Support. Ze worden vergezeld door de gasten Joeri Both (VU Amsterdam) &amp; Aaron Tay (Singapore University of Management). Samenvatting: De podcast bespreekt het belang van Research Support en het lonkende perspectief waarbij bibliotheken staan op een kritisch keerpunt en moeten zich aanpassen aan het veranderende academische en technologische landschap om hun relevantie en effectiviteit te behouden. Tips van de gasten: De gasten hebben de volgende tips voor de luisteraars: Carpentry Workshops en Blogs door bibliothecarissen.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-audio.m4a</guid>
+            <pubDate>Mon, 10 Oct 2023 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>00:00:20</itunes:duration> <!-- Assuming the episode is 20 seconds based on the preview -->
+        </item>
+
+        <!-- Add more <item> tags for each episode -->
+
+    </channel>
+</rss>
