@@ -4,10 +4,10 @@
         <!-- Podcast Information -->
         <title>UB2030</title>
         <link>https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek</link>
-        <language>en-us</language>
+        <language>nl-nl</language>
         <itunes:author>Universiteitsbibliotheek Vrije Universiteit Amsterdam</itunes:author>
         <description>UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs.</description>
-        <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-cover_image.jpg" />
+        <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-00-cover_image.png" />
 
         <!-- Episode Information -->
         <item>
@@ -17,8 +17,10 @@
             <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-audio.m4a" type="audio/x-m4a" />
             <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-audio.m4a</guid>
             <pubDate>Mon, 10 Oct 2023 10:00:00 GMT</pubDate>
+			<language>en-us</language>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>00:00:20</itunes:duration> <!-- Assuming the episode is 20 seconds based on the preview -->
+            <itunes:duration>37:44:</itunes:duration>
+			<itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-cover_image.jpg" />
         </item>
 
         <!-- Add more <item> tags for each episode -->
