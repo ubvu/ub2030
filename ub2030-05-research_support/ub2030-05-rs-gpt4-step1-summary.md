@@ -141,8 +141,8 @@ Het is duidelijk dat bibliotheken zich moeten aanpassen en innoveren om relevant
 
 Maurice Vanderfeesten vraagt Joeri en Aaron naar aanbevelingen voor luisteraars. Hier zijn de hoofdpunten:
 
-- **Carpentry Workshops:** Aaron adviseert alle bibliothecarissen om de materialen van de Library Carpentry, Software Carpentry en Data Carpentry workshops te bekijken. Deze workshops bieden goede leermaterialen over onderzoekssteun in diverse gebieden.
+- **Carpentry Workshops:** Aaron adviseert alle bibliothecarissen om de materialen van de [Library Carpentry, Software Carpentry en Data Carpentry workshops](https://carpentries.org/) te bekijken. Deze workshops bieden goede leermaterialen over onderzoekssteun in diverse gebieden.
 
-- **Blogs door bibliothecarissen:** Joeri benadrukt het belang van het volgen van blogs geschreven door bibliothecarissen, inclusief die van Aaron. Deze blogs bevatten vaak innovatieve ideeën en worden geschreven door risiconemers binnen de conservatieve bibliotheekomgeving. Deze personen zijn essentieel om veranderingen te stimuleren.
+- **Blogs door bibliothecarissen:** Joeri benadrukt het belang van het volgen van [blogs geschreven door bibliothecarissen, inclusief die van Aaron.](http://musingsaboutlibrarianship.blogspot.com/) Deze blogs bevatten vaak innovatieve ideeën en worden geschreven door risiconemers binnen de conservatieve bibliotheekomgeving. Deze personen zijn essentieel om veranderingen te stimuleren.
 
 Luisteraars worden aangemoedigd om deze bronnen te raadplegen voor inzichten en begeleiding over de toekomst van bibliotheken en onderzoekssteun.
