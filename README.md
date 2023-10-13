@@ -22,3 +22,18 @@ Voor afdeling Research Support worden deze ideeën verder uitgewerkt tot pilotvo
 De interviews zijn per afdeling gepland, onderverdeeld in de onderwerpen van de ambities in het meerjarenplan. 
 
 
+## Afleveringen
+
+- [**Aflevering 01 -- Introductie**](./ub2030-01-introduction/)
+- [**Aflevering 02 -- Toekomst van Research Data Management en Research Software Management**](./ub2030-02-rdm/ub2030-02-rdm-shownotes.md)
+- [**Aflevering 03 -- Toekomst van Research Intelligence**](./ub2030-03-research_intelligence/ub2030-03-ri-shownotes.md)
+- [**Aflevering 04 -- Toekomst van Open Science**](./ub2030-04-open_science/ub2030-04-os-shownotes.md)
+- [**Aflevering 05 -- Toekomst van Research Support**](./ub2030-05-research_support/ub2030-05-rs-shownotes.md)
+- [**Aflevering 06 -- Toekomst van Research Data Management en Research Software Management**](./ub2030-02-rdm/ub2030-02-rdm-shownotes.md)
+- [**Aflevering 07 -- Toekomst van Education Support**](./ub2030-07-education_support/)
+- [**Aflevering 08 -- Toekomst van Special Collections**](./ub2030-08-special_collections/)
+- [**Aflevering 09 -- Toekomst van Information Services**](./ub2030-09-information_services/)
+- [**Aflevering 10 -- Toekomst van Library Desk Services**](./ub2030-10-library_desk_services/)
+- [**Aflevering 11 -- Toekomst van Aquisition and Metadata**](./ub2030-11-aquisition_and_metadata/)
+- [**Aflevering 12 -- Wrap up**](./ub2030-12-wrap/)
+- [**Aflevering 13 -- BONUS DeSci: Toekomst van Open Science Ecosystems**](./ub2030-bonus-01-desci/)
