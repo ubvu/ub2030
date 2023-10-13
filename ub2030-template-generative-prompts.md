@@ -1,10 +1,16 @@
-Prompt: Maak een samenvatting van de volgende secties:
-of 
-Maak een samenvatting van de volgende sectie, doe het in de puntsgewijze stijl waarbij de belangrijkste punten worden uitgelicht (vetgedrukt) gevolgd door een dubbele punt en een korte uitleg, introduceer de lijst met punten met een korte zin en sluit deze lijst af met een concluderende zin:
+Prompt: Maak een samenvatting van de volgende sectie van het transcript, doe het in de puntsgewijze stijl waarbij de belangrijkste punten worden uitgelicht (vetgedrukt) gevolgd door een dubbele punt en een korte uitleg, introduceer de lijst met punten met een korte zin en sluit deze lijst af met een concluderende zin:
 
 Input: ub2030-??-???-transcript.md
 
 Output: ub2030-??-???-gpt4-step1-summary.md
+
+-------
+
+Prompt: Maak een beknopte Management Samenvatting van de uitgebreidere samenvatting van het transcript:
+
+Input: ub2030-??-???-transcript.md
+
+Output: append to >> ub2030-??-???-transcript.md
 
 -------
 
@@ -16,7 +22,7 @@ Output: ub2030-??-???-gpt4-step2-perspective.md
 
 -------
 
-Prompt: Gebruik het volgende lonkende toekomstperspectief, en plaats het in een verhalend scenario:
+Prompt: Gebruik het volgende lonkende toekomstperspectief van de universiteitsbibliotheek, en plaats het in een verhalend scenario:
 
 Input: ub2030-??-???-gpt4-step2-perspective.md
 
