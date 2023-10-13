@@ -1,7 +1,5 @@
 # Aflevering 06 - Toekomst van Digital Library Services and Infrastructures (in English)
 
-**Maurice Vanderfeesten:** 
-
 
 ## Introduction
 
@@ -354,11 +352,7 @@ You made a very nice loop in your summary. So thank you very much.
 
 **Alastair Dunning:** Yeah. Alright. 
 
-**Alexey Pristupa:** Thank
-
-you 
-
-very much guys. Bye-bye.
+**Alexey Pristupa:** Thank you very much guys. Bye-bye.
 
 **David Oldenhof:** Bye-bye.
 
