@@ -22,7 +22,7 @@ architect bij de VU.
 de VU.
 
 *David:* En Marcel Ras, coördinator van het VU netwerk research data
-support. Oftewel, nerds.
+support. Oftewel, NERDS.
 
 ## Wat is Research Data Management?
 
