@@ -25,11 +25,11 @@ De interviews zijn per afdeling gepland, onderverdeeld in de onderwerpen van de 
 ## Afleveringen
 
 - [**Aflevering 01 -- Introductie**](./ub2030-01-introduction/)
-- [**Aflevering 02 -- Toekomst van Research Data Management en Research Software Management**](./ub2030-02-rdm/ub2030-02-rdm-shownotes.md)
-- [**Aflevering 03 -- Toekomst van Research Intelligence**](./ub2030-03-research_intelligence/ub2030-03-ri-shownotes.md)
-- [**Aflevering 04 -- Toekomst van Open Science**](./ub2030-04-open_science/ub2030-04-os-shownotes.md)
+- [**Aflevering 02 -- Toekomst van Research Data Management en Research Software Management**](./ub2030-02-rdm/)
+- [**Aflevering 03 -- Toekomst van Research Intelligence**](./ub2030-03-research_intelligence/)
+- [**Aflevering 04 -- Toekomst van Open Science**](./ub2030-04-open_science/)
 - [**Aflevering 05 -- Toekomst van Research Support**](./ub2030-05-research_support/)
-- [**Aflevering 06 -- Toekomst van Research Data Management en Research Software Management**](./ub2030-02-rdm/ub2030-02-rdm-shownotes.md)
+- [**Aflevering 06 -- Toekomst van Digital Services and Infrastructures**](./ub2030-06-digital_services_and_infrastructures/)
 - [**Aflevering 07 -- Toekomst van Education Support**](./ub2030-07-education_support/)
 - [**Aflevering 08 -- Toekomst van Special Collections**](./ub2030-08-special_collections/)
 - [**Aflevering 09 -- Toekomst van Information Services**](./ub2030-09-information_services/)
