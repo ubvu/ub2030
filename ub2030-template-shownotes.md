@@ -8,6 +8,7 @@ Waar vier vraagtekens "????" staan vul daar het onderwerp in van de aflevering, 
 Waar vijf vraagtekens "?????" staan vul daar tekst in die nodig is om de zin ervoor af te maken, op basis van de Input Samenvatting.
 Bij Duration staat "??:??:??", dat is de duur van de aflevering, vervang door "00:43:45" .
 Bij Publication date staat "YYYY-MM-DD", dat is de publicatie datum van de podcast, vervang door "2023-08-08"
+Bij Description, maak een uitgebreide beschrijving. Gebruik html links in de tips en referenties. Gebruik html un-numbered lists in de kernpunten en de referenties.
 
 Input: Samenvatting:
 ...
@@ -26,7 +27,7 @@ Title            | UB2030 - ?? - Toekomst van ????
 Permalink        | ub2030-??-???! 
 Genre            | Science
 Tags             | Podcast UB2030 Futuring
-Description      | UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. <br/><br/>  In aflevering ?? bespreken Maurice Vanderfeesten en David Oldenhof het onderwerp ????. Ze worden vergezeld door de gasten ?????.  <br/><br/>  **Samenvatting:**<br/>  De podcast bespreekt het belang van ?????. en het lonkende perspectief waarbij ????? <br/><br/> **Kernpunten:**<br/> Puntsgewijs zijn de meest opvallende zaken die besproken werden: ???? <br/><br/>  **Tips van de gasten:**<br/>  De gasten hebben de volgende tips voor de luisteraars (met links) ????? <br/><br/>  **Referenties:**<br/>  De referenties  die voor deze aflevering zijn verzameld zijn de volgende: (maak lijst van de referenties, gebruik alleen de titel van de referenties en plaats het in de bijbehorende link) ????
+Description      | UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. <br/><br/>  In aflevering ?? bespreken Maurice Vanderfeesten en David Oldenhof het onderwerp ????. Ze worden vergezeld door de gasten (beschrijf de naam, functie en organisatie) ?????.  <br/><br/>  **Samenvatting:**<br/>  De podcast bespreekt het belang van ?????. en het lonkende perspectief waarbij ????? <br/><br/> **Kernpunten:**<br/> De meest opvallende zaken die besproken werden zijn: ???? <br/><br/>  **Tips van de gasten:**<br/>  De gasten hebben de volgende tips voor de luisteraars ????? <br/><br/>  **Referenties:**<br/>  De volgende referentielijst is voor deze aflevering verzameld: ????
 Privacy          | Public
 Publication date | YYYY-MM-DDT09:00:00 CET
 Duration         | ??:??:??
