@@ -1,4 +1,4 @@
-# Aflevering 03 -- toekomst van Research Intelligence
+# Aflevering 03 -- Toekomst van Research Intelligence
 
 
 # Introductie
