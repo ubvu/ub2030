@@ -1,3 +1,5 @@
+# Aflevering 04 -- Toekomst van Open Science
+
 Prompt: Hoe zou je het "lonkende perspectief" kunnen beschrijven voor de Toekomst van Open Science? uitgaande van onderstaande sectie: 
 
 Input: ub2030-04-os-gpt4-step1-samenvatting.md
