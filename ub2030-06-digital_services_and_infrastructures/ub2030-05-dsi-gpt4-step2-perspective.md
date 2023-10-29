@@ -1,4 +1,4 @@
-# Aflevering 06 - Toekomst van Digital Library Services and Infrastructures (in English)
+# Aflevering 06 - Toekomst van Digital Library Services and Infrastructures
 
 ## Lonkend Perspectief
 
