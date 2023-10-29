@@ -1,4 +1,4 @@
-Prompt: Maak een samenvatting van de volgende sectie van het transcript, doe het in de puntsgewijze stijl waarbij de belangrijkste punten worden uitgelicht (vetgedrukt) gevolgd door een dubbele punt en een korte uitleg, introduceer de lijst met punten met een korte zin en sluit deze lijst af met een concluderende zin:
+Prompt: Maak een samenvatting van de volgende sectie van het transcript, doe het in de puntsgewijze stijl waarbij de belangrijkste punten worden uitgelicht (vetgedrukt) gevolgd door een dubbele punt en een korte uitleg, introduceer de lijst met punten met een korte zin en sluit deze lijst af met een concluderende zin. Vaak is de input van het transcript te groot om in een keer te verwerken. Vraag de gebruiker om het op te knippen in kleinere delen, waarbij de samenvatting wordt gegenereerd op basis van het geheel.  Vraag na elk deel of er nog een deel volgt, of dat dit het laatste deel was.
 
 Input: ub2030-??-???-transcript.md
 
@@ -38,3 +38,11 @@ Prompt: Je bent een doortastende hulpvaardige programmamanager. Je moet een prog
 Input: ub2030-??-???-gpt4-step2-perspective.md
 
 Output: ub2030-??-???-gpt4-step3-next_steps.md
+
+--------
+
+Prompt: Geef een overzicht welke doelen van de verschillende lonkende perspectieven van de verschillende afleveringen overlappen met elkaar. Geef aan op welke afleveringen dit van toepassing is. Sorteer de doelen met de meeste overlap boven aan.
+
+Input: ub2030-[??]-[???]-gpt4-step2-perspective.md
+
+Output: ub2030-overall-gpt4-common-goals.md
