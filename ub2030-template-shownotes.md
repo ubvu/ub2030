@@ -18,27 +18,30 @@ Input: Shownotes Template:
 # UB2030 - ?? - Toekomst van ????
 *SHOW NOTES*
 
+[episode page](https://ubvu.github.io/ub2030/ub2030-??-???) | [project page](https://ubvu.github.io/ub2030/) | [archive doi:]()
+
 ## Basic Info
 
 Field Name       | Field Value    
 ---|---
 Cover Image            |  <img src="ub2030-??-???-cover_image.png" alt="cover image" style="width:200px;height:auto;"> <br/> <https://github.com/ubvu/ub2030/blob/main/ub2030-??-???!/ub2030-??-???-cover_image.jpg>
-Title            | UB2030 - ?? - Toekomst van ????
-Permalink        | ub2030-??-???! 
+Title            | UB2030 - Toekomst van ????
+Permalink        | ub2030-???! 
 Genre            | Science
-Tags             | Podcast UB2030 Futuring
-Description      | UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. <br/><br/>  In aflevering ?? bespreken Maurice Vanderfeesten en David Oldenhof het onderwerp ????. Ze worden vergezeld door de gasten (beschrijf de naam, functie en organisatie) ?????.  <br/><br/>  **Samenvatting:**<br/>  De podcast bespreekt het belang van ?????. en het lonkende perspectief waarbij ????? <br/><br/> **Kernpunten:**<br/> De meest opvallende zaken die besproken werden zijn: ???? <br/><br/>  **Tips van de gasten:**<br/>  De gasten hebben de volgende tips voor de luisteraars ????? <br/><br/>  **Referenties:**<br/>  De volgende referentielijst is voor deze aflevering verzameld: ????
+Tags             | #Podcast #UB2030 #Libraries #Futuring #????
+Description      | UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. In deze aflevering bespreken David Oldenhof en Maurice Vanderfeesten het onderwerp ????. Ze worden vergezeld door de gasten (beschrijf de naam, functie en organisatie) ?????.  <br/><br/>  **Samenvatting:**<br/>  De podcast bespreekt het belang van ?????. en het lonkende perspectief waarbij ????? <br/><br/> **Kernpunten:**<br/> De meest opvallende zaken die besproken werden zijn: ???? <br/><br/>  **Tips van de gasten:**<br/>  De gasten hebben de volgende tips voor de luisteraars ????? <br/><br/>  **Referenties:**<br/>  De volgende referentielijst is voor deze aflevering verzameld: ????
 Privacy          | Public
-Publication date | YYYY-MM-DDT09:00:00 CET
+Publication date | YYYY-MM-DDT12:00:00 CET
 Duration         | ??:??:??
 Audio            | <https://github.com/ubvu/ub2030/blob/main/ub2030-??-???!/ub2030-??-???-audio.m4a>
-Shownotes        | <https://github.com/ubvu/ub2030/blob/main/ub2030-??-???!/ub2030-??-???-shownotes.md>
+Shownotes        | <https://ubvu.github.io/ub2030/ub2030-??-???>
 Transcript       | <https://github.com/ubvu/ub2030/blob/main/ub2030-??-???!/ub2030-??-???-transcript.md>
 Summary          | <https://github.com/ubvu/ub2030/blob/main/ub2030-??-???!/ub2030-??-???-gpt4-step1-summary.md>
 Perspective      | <https://github.com/ubvu/ub2030/blob/main/ub2030-??-???!/ub2030-??-???-gpt4-step2-perspective.md>
 Story      | <https://github.com/ubvu/ub2030/blob/main/ub2030-??-???!/ub2030-??-???-gpt4-step2-story_scenario.md>
 Next Steps       | <https://github.com/ubvu/ub2030/blob/main/ub2030-??-???!/ub2030-??-???-gpt4-step3-next_steps.md>
 References       | <https://github.com/ubvu/ub2030/blob/main/ub2030-??-???!/ub2030-??-???-references.md>
+Feedback         | <https://forms.office.com/e/KX08BEenpu>
 
 
 ## Extended Info
