@@ -9,7 +9,7 @@ Output:
 ## Inleiding
 -----------
 
-De podcast UB2030, gehost door Maurice Vanderfeesten en David Oldenhof, bespreekt de innovaties in universiteitsbibliotheken door technologische en educatieve veranderingen. In deze aflevering focussen ze op de toekomst van open science, met gasten Sander Bos, open science coördinator bij de VU, en Ludo Waltman, adjunct-directeur van het CWTS in Leiden.
+De podcast UB2030, gehost door Maurice Vanderfeesten en David Oldenhof, bespreekt de innovaties in universiteitsbibliotheken door technologische en educatieve veranderingen. In deze aflevering focussen ze op de toekomst van open science, met gasten Sander Bosch, open science coördinator bij de VU, en Ludo Waltman, adjunct-directeur van het CWTS in Leiden.
 
 ## Definities en Aanleiding
 ------------------------
