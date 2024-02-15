@@ -3,6 +3,7 @@ UB2030 is een podcast over de innovatie van de universiteitsbibliotheek door tec
 
 Auteurs: Maurice Vanderfeesten, David Oldenhof \
 Opdrachtgever: Joeri Both\
+Ogranisatie: [Universiteitsbibliotheek, Vrije Universiteit Amsterdam](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek)
 Datum: 2023-05-19
 
 [![DOI](https://zenodo.org/badge/679753673.svg)](https://zenodo.org/doi/10.5281/zenodo.10666049) 
