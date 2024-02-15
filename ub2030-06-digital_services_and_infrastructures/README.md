@@ -1,6 +1,10 @@
 # UB2030 - 06 - Toekomst van Digital Services and Infrastructures
 *SHOW NOTES*
 
+[![DOI](https://zenodo.org/badge/679753673.svg)](https://zenodo.org/doi/10.5281/zenodo.10666049)
+
+[Episode Page](https://ubvu.github.io/ub2030/ub2030-06-digital_services_and_infrastructures) | [Project Page](https://ubvu.github.io/ub2030/) | [Listen on SoundCloud](https://soundcloud.com/vu-library-live/sets/ub2030-the-future-of-research-libraries) | [Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:527805591/sounds.rss)
+
 ## Basic Info
 
 Field Name       | Field Value    
@@ -33,7 +37,7 @@ Artist                     | Universiteitsbibliotheek Vrije Universiteit Amsterd
 Publisher                  | Universiteitsbibliotheek Vrije Universiteit Amsterdam
 Composer                   | \-
 Release title              | \-
-Buy-link                   | <https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek>
+Buy-link                   | <https://ubvu.github.io/ub2030/>
 Album title                | UB2030
 Record label               | \-
 Release date               | \-
