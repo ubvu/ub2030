@@ -1,6 +1,8 @@
 # UB2030 | Innovatie Universiteitsbibliotheek 2030
 UB2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. 
 
+[**Beluister op SoundCloud**](https://soundcloud.com/vu-library-live/sets/ub2030-the-future-of-research-libraries)
+
 Auteurs: Maurice Vanderfeesten, David Oldenhof \
 Opdrachtgever: Joeri Both\
 Ogranisatie: [Universiteitsbibliotheek, Vrije Universiteit Amsterdam](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek)
