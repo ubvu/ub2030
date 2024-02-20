@@ -54,7 +54,7 @@ Feedback         | <https://forms.office.com/e/KX08BEenpu>
   Publisher                   | Universiteitsbibliotheek Vrije Universiteit Amsterdam
   Composer                    | \-
   Release title               | \-
-  Buy-link                    | <https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek>
+  Buy-link                    | <https://ubvu.github.io/ub2030/>
   Album title                 | UB2030
   Record label                | \-
   Release date                | \-
