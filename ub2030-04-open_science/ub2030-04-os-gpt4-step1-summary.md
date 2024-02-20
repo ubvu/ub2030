@@ -4,7 +4,7 @@ Input: ub2030-04-os-transcript.md
 
 Output: 
 
-# Samenvatting : UB2030 - 04 - Toekomst vna Open Science
+# Samenvatting : UB2030 - 04 - Toekomst van Open Science
 
 ## Inleiding
 -----------
