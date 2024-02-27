@@ -4,34 +4,76 @@
 
 ## Programma: Toekomstgerichte Transformatie van Universiteitsbibliotheken
 
-### Korte termijn (1-2 jaar):
-1. **Open Toegangsinitiatief**: Introductie van een platform waarop alle academische bronnen vrij toegankelijk zijn voor studenten en medewerkers van de universiteit.
-    - *Doel*: Het verhogen van de openheid en toegankelijkheid van academische bronnen.
-  
-2. **Zichtbaarheids- en Waardecampagne**: Lancering van een marketingcampagne die de waarde van de bibliotheek benadrukt in contrast met online platforms.
-    - *Doel*: Het versterken van de perceptie van de bibliotheek als een cruciale bron van kennis en informatie.
-  
-3. **Relatieherziening met Uitgevers**: Opzetten van een team dat zich bezighoudt met het onderhandelen van betere voorwaarden met grote uitgevers, met het oog op digitale soevereiniteit.
-    - *Doel*: Verzekeren dat de universiteit controle behoudt over haar digitale bronnen en deze op een open manier kan distribueren.
+Om een programma op te stellen dat de verschillende doelen bereikt, zullen we de input categoriseren en projecten definiëren voor de korte, middellange en lange termijn. Daarnaast stellen we meetbare indicatoren voor om de volwassenheid van elk doel te meten.
 
-### Midden termijn (3-5 jaar):
-4. **Bibliotheek Evolutieproject**: Evaluatie van huidige diensten en introductie van nieuwe diensten (zoals digitale workshops, online cursussen) die het traditionele bibliotheekmodel aanvullen.
-    - *Doel*: Aanpassing aan veranderende behoeften van gebruikers en waarborging van de unieke waarde van de bibliotheek.
-  
-5. **Open Infrastructuur Samenwerking**: Samenwerking aangaan met andere universiteitsbibliotheken op nationaal en internationaal niveau om een gemeenschappelijke open infrastructuur te creëren.
-    - *Doel*: Creëren van een robuuste infrastructuur die de samenwerking en uitwisseling van bronnen vergemakkelijkt.
-  
-6. **Gemeenschappelijk Openbaar Domeinplatform**: Ontwikkeling van een platform waarop gegevens en diensten gedeeld kunnen worden tussen universiteiten en externe partners.
-    - *Doel*: Verzekeren van openheid en toegankelijkheid van bronnen op een breder niveau.
+Gebaseerd op uw verzoek, zal ik de projecten en hun doelen combineren in het gespecificeerde format:
 
-### Lange termijn (6-10 jaar):
-7. **Open Source Beweging**: Actieve participatie in en ondersteuning van wereldwijde open source-initiatieven, en integratie van open-source tools en platforms binnen de bibliotheek.
-    - *Doel*: De bibliotheek op de voorgrond plaatsen van wereldwijde open-source bewegingen en de voordelen van open source benutten.
-  
-8. **Inspirerend Bibliotheekdesign**: Herontwerp van fysieke en digitale ruimtes van de bibliotheek om ze meer inspirerend en uitnodigend te maken.
-    - *Doel*: Verzekeren dat de bibliotheek een centrale plek van inspiratie en leren blijft op de campus.
-  
-9. **Duurzame Betrouwbaarheid**: Implementatie van systemen en processen om de betrouwbaarheid van de bronnen en diensten van de bibliotheek te waarborgen, met regelmatige audits en feedbackloops.
-    - *Doel*: Garanderen dat de bibliotheek als betrouwbaar wordt beschouwd, zowel qua inhoud als dienstverlening.
+### 1. Toekomstvisie, Waardengedreven, en Kernwaarden
 
-Dit programma is erop gericht om de universiteitsbibliotheek te transformeren volgens het geschetste lonkende toekomstperspectief. Het zorgt ervoor dat de bibliotheek zich kan aanpassen aan veranderende tijden, terwijl het haar kernwaarden van openheid, betrouwbaarheid en inspiratie behoudt.
+- **Korte termijn:**
+  - **Project:** Waardencharter voor bibliotheken
+  - **Doel:** Formuleren en vastleggen van de kernwaarden in een document dat als leidraad dient voor alle bibliotheekactiviteiten, waarin openheid, betrouwbaarheid, en inspiratie centraal staan.
+  - **Meetbare indicatoren:** Aantal bibliotheken dat het charter ondertekent; feedbackscores op openheid, betrouwbaarheid, en inspiratie van bibliotheekgebruikers.
+
+- **Middellange termijn:**
+  - **Project:** Trainingen en workshops voor bibliotheekpersoneel
+  - **Doel:** Verhogen van het bewustzijn en de vaardigheden van het personeel om de gedefinieerde waarden in praktijk te brengen.
+  - **Meetbare indicatoren:** Aantal getrainde medewerkers; verbetering van de medewerkerstevredenheid en klantfeedback gerelateerd aan de bibliotheekwaarden.
+
+- **Lange termijn:**
+  - **Project:** Lancering van een jaarlijkse innovatieprijs
+  - **Doel:** Stimuleren van innovatie en erkenning van projecten die de kernwaarden exemplarisch uitdragen.
+  - **Meetbare indicatoren:** Aantal inzendingen voor de prijs; impact en zichtbaarheid van de winnende projecten.
+
+### 2. Zichtbaarheidsconcurrentie en Digitale balans
+
+- **Korte termijn:**
+  - **Project:** Ontwikkeling van een online platform voor bibliotheekdiensten
+  - **Doel:** Vergroten van de online zichtbaarheid en toegankelijkheid van bibliotheekdiensten en -collecties.
+  - **Meetbare indicatoren:** Bezoekersaantallen van het platform; gebruikscijfers van online diensten.
+
+- **Middellange termijn:**
+  - **Project:** Partnerschappen met online educatieve platforms
+  - **Doel:** Uitbreiden van het bereik van bibliotheekmaterialen en -diensten door middel van partnerschappen.
+  - **Meetbare indicatoren:** Aantal partnerschappen; bereik en gebruik van bibliotheekmaterialen via partnerplatforms.
+
+- **Lange termijn:**
+  - **Project:** Innovatie in digitale bibliotheekdiensten
+  - **Doel:** Ontwikkelen van unieke digitale ervaringen die de waarde van bibliotheken versterken.
+  - **Meetbare indicatoren:** Gebruikscijfers van nieuwe diensten; klanttevredenheid met digitale innovaties.
+
+### 3. Digitale Soevereiniteit, Samenwerking, en Open bewegingen
+
+- **Korte termijn:**
+  - **Project:** Opzetten van een digitale soevereiniteitswerkgroep
+  - **Doel:** Onderzoeken van uitdagingen en kansen rond digitale soevereiniteit en het opzetten van een basis voor samenwerking.
+  - **Meetbare indicatoren:** Aantal deelnemende organisaties; rapporten en aanbevelingen geproduceerd door de werkgroep.
+
+- **Middellange termijn:**
+  - **Project:** Ontwikkeling van een samenwerkingsplatform voor bibliotheken
+  - **Doel:** Faciliteren van uitwisseling van bronnen en best practices tussen bibliotheken op nationaal en internationaal niveau.
+  - **Meetbare indicatoren:** Aantal actieve gebruikers op het platform; diversiteit en aantal gedeelde bronnen.
+
+- **Lange termijn:**
+  - **Project:** Creëren van een openbare infrastructuur voor kennisdeling
+  - **Doel:** Opbouwen van een duurzame, open infrastructuur die de toegang tot en het delen van kennis vergemakkelijkt.
+  - **Meetbare indicatoren:** Gebruikscijfers van de infrastructuur; aantal bijdragen aan en downloads van de openbare kennisbank.
+
+### 4. Openbaar domein
+
+- **Korte termijn:**
+  - **Project:** Audit en catalogisering van materialen voor het openbaar domein
+  - **Doel:** Identificeren en catalogiseren van materialen die geschikt zijn voor overdracht naar het openbaar domein.
+  - **Meetbare indicatoren:** Aantal geïdentificeerde en gecatalogiseerde materialen; toename van openbaar domein materiaal beschikbaar voor het publiek.
+
+- **Middellange termijn:**
+  - **Project:** Partnerschappen met auteurs en uitgevers voor open toegang
+  - **Doel:** Vergroten van het aantal materialen beschikbaar in het openbaar domein door samenwerking.
+  - **Meetbare indicatoren:** Aantal nieuwe partnerschappen; toename van het aantal werken vrijgegeven in het openbaar domein.
+
+- **Lange termijn:**
+  - **Project:** Ontwikkeling van een open databank
+  - **Doel:** Bieden van gemakkelijke toegang tot een breed scala aan materialen in het openbaar domein voor educatie en onderzoek.
+  - **Meetbare indicatoren:** Aantal unieke bezoekers en downloads van de databank; gebruikerstevredenheid met de toegang en beschikbaarheid van materialen.
+
+Deze projecten en doelen vormen samen een roadmap om de bibliotheek te transformeren in een meer open, betrouwbare en inspirerende instelling, met duidelijke, meetbare indicatoren om de voortgang te volgen.
