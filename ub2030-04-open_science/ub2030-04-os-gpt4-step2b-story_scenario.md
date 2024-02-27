@@ -1,23 +1,22 @@
 ## Verhalend Scenario voor de Toekomst van Open Science:
 
-Alexander, een erudiete en visionaire wetenschapper, bevindt zich in de voorhoede van een academische renaissance aan de Universiteit van Leiden, in het jaar 2035. De wereld van de wetenschap heeft een metamorfose ondergaan, gedreven door de beginselen van Open Science, en Alexander is zowel getuige als schepper van deze veranderingen.
+Prompt: Gebruik het volgende lonkende toekomstperspectief van de universiteitsbibliotheek, en plaats het in een verhalend scenario:
 
-**Toegankelijke Wetenschap voor Iedereen:**  
-De wetenschap, ooit een geheime tuin, staat nu open voor iedereen. Van zijn collega-onderzoekers tot de jongelingen op de scholen en de nieuwsgierige zielen in de maatschappij, iedereen heeft toegang tot de rijke oogst van wetenschappelijke kennis. Alexander organiseert salons en online symposia om de gemeenschap bij het wetenschappelijke proces te betrekken, in een sfeer van collectieve ontdekking en verwondering.
+Input: ub2030-04-os-gpt4-step2-perspective.md
 
-**Herschikking van Publicatieprocessen:**  
-Met een filosofische blik ziet Alexander dat het publicatielandschap zich heeft ontvouwd in een meer integere en transparante vorm. Het reviewproces staat nu los van het publiceren, een revolutie die heeft geleid tot een renaissance in wetenschappelijke integriteit. De academische druk om te publiceren in prestigieuze tijdschriften is verminderd, wat ruimte heeft gemaakt voor onderzoek dat waarachtig en invloedrijk is.
+Output: ub2030-04-os-gpt4-step2b-story_scenario.md
 
-**Erkenning van Diverse Rollen:**  
-In deze nieuwe academische wereld worden alle rollen binnen de universiteit erkend en gevierd. Onderzoekers, docenten, en andere academici worden op een rechtvaardige manier gewaardeerd voor hun bijdragen. Alexander aanschouwt hoe deze waardering bijdraagt aan een welvarende en inclusieve academische cultuur.
+## "Nina's Navigatie door de Nieuwe Normen van Open Science"
+In het jaar 2030 heeft de universiteitsbibliotheek zich getransformeerd tot een bruisend epicentrum van open science, een plaats waar toegankelijkheid, efficiëntie, erkenning, cultuurshift, maatschappelijke impact en strategische benadering niet alleen idealen zijn, maar levende praktijken. Deze transformatie begon met een visie, een droom van een meer inclusieve, samenwerkende en transparante academische wereld. 
 
-**Centrale Rol van Diensten:**  
-Emanuel, de bibliothecaris, heeft samen met Alexander de universiteitsbibliotheek getransformeerd tot het epicentrum van academische activiteit. De bibliotheek is een onmisbare schakel geworden in het lokaliseren, gebruiken en hergebruiken van onderzoeksinformatie. Emanuel’s toewijding heeft een ondersteuningsnetwerk gecreëerd dat ongeëvenaard is, waardoor de bibliotheek een essentiële hulpbron is voor onderzoekers en docenten.
+Op een doorsnee dag in deze toekomst, loopt professor Nina door de digitale archieven van de universiteitsbibliotheek, toegankelijk vanaf elke plek op de wereld. Zij werkt aan een grensverleggend project in milieuwetenschappen en maakt gebruik van open datasets en publicaties die door collega's over de hele wereld vrij zijn gedeeld. Deze rijkdom aan informatie, vrij beschikbaar gesteld, versnelt haar onderzoek aanzienlijk, waardoor ze innovatieve oplossingen voor klimaatverandering kan ontwikkelen.
 
-**Bewustzijn van de Data-gedreven Trend:**  
-Leonard, een collega-onderzoeker en meester in datawetenschap, heeft Alexander en de academische gemeenschap begeleid door de transformatie naar een meer data-gedreven wetenschap. Ze zijn zich volledig bewust van de kansen die dit biedt voor precisie en efficiëntie in onderzoek, maar blijven waakzaam voor de valkuilen van overmatige afhankelijkheid van data.
+In een andere hoek van de digitale wereld, werkt een groep studenten software engineering samen aan een open-source project dat de analyse van wetenschappelijke data vereenvoudigt. Hun werk, ondersteund en erkend door de universiteitsbibliotheek, wordt gezien als een waardevolle bijdrage aan de wetenschappelijke gemeenschap, gelijkwaardig aan traditionele academische publicaties.
 
-**Openheid en Innovatie:**  
-De academische gemeenschap bloeit in een sfeer van openheid en vernieuwing. Nieuwe ideeën worden met open armen ontvangen en creativiteit wordt gevierd. Leonard en Alexander werken hand in hand met Emanuel om een heldere strategie te ontwikkelen voor open onderzoeksinformatie, waardoor hun universiteit de toortsdrager blijft van de beweging voor Open Science.
+De cultuur binnen de academische gemeenschap is merkbaar veranderd. Openheid en samenwerking zijn de norm geworden. Onderzoekers en docenten delen hun bevindingen en leermaterialen vrijuit, waardoor de deuren naar nieuwe vormen van onderwijs en onderzoek wijd open staan. Deze cultuurshift werd aangedreven door de universiteitsbibliotheek, die actief workshops en seminars organiseerde om de voordelen van open science te benadrukken en de gemeenschap te onderwijzen over hoe zij kunnen bijdragen.
 
-In een moment van reflectie beseft Alexander dat hij deel uitmaakt van een uniek tijdperk. Een tijdperk waarin de wetenschap zich heeft ontpopt tot een toegankelijk, inclusief, gecoördineerd en innovatief veld, met de universiteitsbibliotheek als kloppend hart en eeuwige bron van kennis en inspiratie.
+De impact van wetenschappelijk onderzoek wordt nu gemeten in termen van de bijdrage aan de maatschappij en de oplossing van wereldwijde uitdagingen, niet enkel door citaties. Onderzoekers voelen zich meer gemotiveerd dan ooit om te werken aan projecten die een positief verschil maken in de wereld.
+
+Ten slotte, de strategische benadering van de universiteitsbibliotheek in het bevorderen van open science heeft geleid tot de implementatie van geavanceerde technologieën en platforms waarop onderzoekers kunnen samenwerken, experimenteren en hun kennis kunnen delen. De bibliotheek functioneert niet alleen als een opslagplaats van informatie, maar ook als een incubator voor innovatie en experiment.
+
+De toekomst van open science, zoals belichaamd door de universiteitsbibliotheek in 2030, is een waar testament van wat mogelijk is wanneer gemeenschappen samenwerken naar een gedeeld doel: het bevorderen van kennis, innovatie en de maatschappelijke impact van wetenschap.
