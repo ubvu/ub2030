@@ -20,9 +20,9 @@ Description      | UB 2030 is een podcast over de innovatie van de universiteits
 Privacy          | Public
 Audio            | <https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-audio.m4a>
 Transcript       | <https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-transcript.md>
-Summary          | <https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-gpt4-step1-samenvatting.md>
-Perspective      | <https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-gpt4-step2-perspectief.md>
-Next Steps       | <https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-gpt4-step3-vervolg.md>
+Summary          | <https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-gpt4-step1-summary.md>
+Perspective      | <https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-gpt4-step2-perspective.md>
+Next Steps       | <https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-gpt4-step3-next_steps.md>
 
 
 ## Extended Info
