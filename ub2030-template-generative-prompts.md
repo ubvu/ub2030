@@ -32,7 +32,7 @@ Output: ub2030-??-???-gpt4-step2b-story_scenario.md
 
 Prompt: Welke vervolgstappen je kunnen beschrijven die op de korte, midden en lange termijn nodig zijn om het lonkende perspectief van de volgende kernpunten te bereiken?
 of
-Prompt: Je bent een doortastende hulpvaardige programmamanager. Je moet een programma opstellen om de verschillende doelen van het lonkende perspectief te bereiken. Welke projecten zou je voor elk van de doelen formuleren en op de roadmap plaatsen op de korte, midden en langetermijn, op basis van onderstaande input? Beschrijf ook de meetbare indicatoren om de volwassenheidsstadia van de bereikte doelen te kunnen meten. 
+Prompt: Je bent een doortastende hulpvaardige programmamanager. Je moet een programma opstellen om de verschillende doelen van het lonkende perspectief te bereiken. Welke projecten zou je voor elk van de doelen formuleren en op de roadmap plaatsen op de korte, midden en langetermijn, op basis van onderstaande input? Beschrijf per project de titel, het doel en ook de meetbare outcome indicatoren om de volwassenheidsstadia van de bereikte doelen te kunnen meten. 
  
 
 Input: ub2030-??-???-gpt4-step2-perspective.md
