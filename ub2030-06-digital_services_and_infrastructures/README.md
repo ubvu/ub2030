@@ -5,6 +5,8 @@
 
 [Episode Page](https://ubvu.github.io/ub2030/ub2030-06-digital_services_and_infrastructures) | [Project Page](https://ubvu.github.io/ub2030/) | [Listen on SoundCloud](https://soundcloud.com/vu-library-live/sets/ub2030-the-future-of-research-libraries) | [Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:527805591/sounds.rss)
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1667591232&color=%230077b3&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/vu-library-live" title="VU Library Live" target="_blank" style="color: #cccccc; text-decoration: none;">VU Library Live</a> · <a href="https://soundcloud.com/vu-library-live/ub2030-digital_library_services" title="UB2030 - Digital Library Services and Infrastructures (in English)" target="_blank" style="color: #cccccc; text-decoration: none;">UB2030 - Digital Library Services and Infrastructures (in English)</a></div>
+
 ## Basic Info
 
 Field Name       | Field Value    
