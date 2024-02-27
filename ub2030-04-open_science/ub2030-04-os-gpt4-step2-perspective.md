@@ -8,18 +8,14 @@ Output:
 
 ## Lonkende Perspectief voor de Toekomst van Open Science:
 
-In de besproken toekomstvisie van de Open Science, komen een aantal kernpunten naar voren:
+- **Toegankelijkheid**: De visie op open science streeft naar een academische wereld waarin onderzoeksresultaten, data, en educatieve bronnen vrij toegankelijk zijn voor iedereen, ongeacht hun geografische of financiële positie.
 
-1. **Toegankelijke Wetenschap voor Iedereen:** Sander ziet een wereld waarin er aanzienlijke vooruitgang is geboekt op meerdere aspecten van de wetenschap. Het uiteindelijke doel is dat iedereen, van onderzoekers tot het grote publiek, toegang heeft tot wetenschappelijke output en actief betrokken kan zijn bij het wetenschappelijke proces.
+- **Efficiëntie**: Open science beoogt de snelheid en effectiviteit van wetenschappelijk onderzoek te verhogen door samenwerking en het delen van kennis te bevorderen, wat leidt tot snellere doorbraken en innovaties.
 
-2. **Herschikking van Publicatieprocessen:** Er is een roep om het publicatieproces te herzien. Sander stelt voor om het publiceren en reviewen van onderzoek los te koppelen, waardoor er wellicht meer transparantie en integriteit in het proces komt.
+- **Geïntegreerde erkenning**: Erkenning van de diverse rollen binnen het onderzoek- en onderwijsproces, waaronder niet alleen traditionele publicaties maar ook datamanagement, softwareontwikkeling, en andere vormen van wetenschappelijke bijdragen.
 
-3. **Erkenning van Diverse Rollen:** In de academische wereld zijn er verschillende rollen - van onderzoekers tot docenten. Sander pleit voor eerlijke erkenning en waardering voor elk van deze rollen, wat zou bijdragen aan een gezondere en meer inclusieve academische cultuur.
+- **Cultuurshift**: De noodzaak van een fundamentele verandering binnen de academische gemeenschap, waarbij openheid, samenwerking, en transparantie als de standaard worden beschouwd.
 
-4. **Centrale Rol van Diensten, in het bijzonder de Universiteitsbibliotheek:** Maurice en Sander onderstrepen beiden de cruciale rol van diensten, met name de universiteitsbibliotheek, in het realiseren van de Open Science-visie. Ze zijn essentieel voor het effectief lokaliseren, gebruiken en hergebruiken van onderzoeksinformatie. Bovendien kan de bibliotheek helpen bij het verbinden van individuen en het bieden van ondersteuning aan onderzoekers en docenten.
+- **Maatschappelijke impact**: Beoordeling van wetenschappelijke inspanningen op basis van hun bijdrage aan de maatschappij en de wetenschappelijke gemeenschap, in plaats van enkel traditionele impactfactoren zoals citatie-indexen.
 
-5. **Bewustzijn van de Data-gedreven Trend:** Ludo merkt op dat er een duidelijke beweging is naar een meer data-gedreven wetenschap. Hoewel dit voordelen heeft, zoals data-gedreven besluitvorming, zijn er ook risico's verbonden aan een overmatige afhankelijkheid van data.
-
-6. **Openheid en Innovatie:** Ludo hoopt dat de academische gemeenschap in de toekomst meer open-minded zal zijn, bereid om nieuwe ideeën te omarmen en op innovatieve manieren te werken. Hierbij benadrukt hij ook het belang van een duidelijke strategie voor open onderzoeksinformatie door universiteiten en bibliotheken.
-
-Samenvattend, het lonkende perspectief voor de toekomst van Open Science ziet een wereld voor zich waarin wetenschap toegankelijk, inclusief, gecoördineerd en innovatief is, met een centrale rol voor diensten zoals universiteitsbibliotheken in het realiseren van deze visie.
+- **Strategische benadering**: Universiteiten en bibliotheken dienen een systematische, strategische aanpak te hanteren om de idealen van open science te realiseren, inclusief het omarmen van nieuwe technologieën en het aanmoedigen van een cultuur van innovatie en experiment.
