@@ -19,7 +19,7 @@ Input: Shownotes Template:
 *SHOW NOTES*
 [![DOI](https://zenodo.org/badge/679753673.svg)](https://zenodo.org/doi/10.5281/zenodo.10666049)
 
-[Episode Page](https://ubvu.github.io/ub2030/ub2030-??-???) | [Project Page](https://ubvu.github.io/ub2030/) | [Listen on SoundCloud](https://soundcloud.com/vu-library-live/sets/ub2030-the-future-of-research-libraries) | [Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:527805591/sounds.rss)
+[Episode Page](https://ubvu.github.io/ub2030/ub2030-??-???) | [Project Page](https://ubvu.github.io/ub2030/) | [Listen on SoundCloud](https://soundcloud.com/vu-library-live/sets/ub2030-the-future-of-research-libraries) | [Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:527805591/sounds.rss) | [Feedback](https://forms.office.com/e/KX08BEenpu)
 
 ## Basic Info
 
@@ -30,7 +30,7 @@ Title            | UB2030 - Toekomst van ????
 Permalink        | ub2030-???! 
 Genre            | Science
 Tags             | #Podcast #UB2030 #Libraries #Futuring #????
-Description      | UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. In deze aflevering bespreken David Oldenhof en Maurice Vanderfeesten het onderwerp ????. Ze worden vergezeld door de gasten (beschrijf de naam, functie en organisatie) ?????.  <br/><br/>  **Samenvatting:**<br/>  De podcast bespreekt het belang van ?????. en het lonkende perspectief waarbij ????? <br/><br/> **Kernpunten:**<br/> De meest opvallende zaken die besproken werden zijn: ???? <br/><br/>  **Tips van de gasten:**<br/>  De gasten hebben de volgende tips voor de luisteraars ????? <br/><br/>  **Referenties:**<br/>  De volgende referentielijst is voor deze aflevering verzameld: ????
+Description      | UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. In deze aflevering bespreken David Oldenhof en Maurice Vanderfeesten het onderwerp ????. Ze worden vergezeld door de gasten (beschrijf de naam, functie en organisatie) ?????.  <br/><br/> [REACTIES EN IDEEËN]:(https://forms.office.com/e/KX08BEenpu) <br/><br/>  **Samenvatting:**<br/>  De podcast bespreekt het belang van ?????. en het lonkende perspectief waarbij ????? <br/><br/> **Kernpunten:**<br/> De meest opvallende zaken die besproken werden zijn: ???? <br/><br/>  **Tips van de gasten:**<br/>  De gasten hebben de volgende tips voor de luisteraars ????? <br/><br/>  **Referenties:**<br/>  De volgende referentielijst is voor deze aflevering verzameld: ????
 Privacy          | Public
 Publication date | YYYY-MM-DDT12:00:00 CET
 Duration         | ??:??:??
