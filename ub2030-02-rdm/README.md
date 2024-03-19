@@ -9,7 +9,7 @@
 
 Field Name       | Field Value    
 ---|---
-Cover Image            |  <img src="ub2030-02-rdm-cover_image.png" alt="cover image" style="width:200px;height:auto;"> <br/> <https://github.com/ubvu/ub2030/blob/main/ub2030-02-rdm/ub2030-02-rdm-cover_image.jpg>
+Cover Image            |  <img src="ub2030-02-rdm-cover_image.jpg" alt="cover image" style="width:200px;height:auto;"> <br/> <https://github.com/ubvu/ub2030/blob/main/ub2030-02-rdm/ub2030-02-rdm-cover_image.jpg>
 Title            | UB2030 - Toekomst van Research Data and Software Management
 Permalink        | ub2030-rdm 
 Genre            | Science
