@@ -1,5 +1,7 @@
 Prompt: Vul de onderstaande Shownotes Template aan met de volgende Input. 
 
+-------------------------------
+
 Input: Variabelen:
 Het dubbele vraagteken "??" is het cijfer van de aflevering, vervang door "06" . 
 Drie vraagtekens "???" is een kort woord dat gebruikt wordt in de bestandsnaam, vervang door "dsi" . 
@@ -10,8 +12,17 @@ Bij Duration staat "??:??:??", dat is de duur van de aflevering, vervang door "0
 Bij Publication date staat "YYYY-MM-DD", dat is de publicatie datum van de podcast, vervang door "2023-08-08"
 Bij Description, maak een uitgebreide beschrijving. Gebruik html links in de tips en referenties. Gebruik html un-numbered lists in de kernpunten en de referenties.
 
+-------------------------------
+
 Input: Samenvatting:
 ...
+
+-------------------------------
+
+Input: Referenties:
+...
+
+-------------------------------
 
 Input: Shownotes Template:
 
@@ -80,3 +91,9 @@ Feedback         | <https://forms.office.com/e/KX08BEenpu>
   Field Name         | Field Value
   -------------------| --------------------
   20 second Preview  | Starting at: 00:00
+
+
+
+-------------------------------
+
+Output: README.md
