@@ -1,0 +1,263 @@
+Maurice Vanderfeesten: Welkom bij UB 2030, de podcast over de universiteitsbibliotheek die moet innoveren vanwege de snel veranderende technologische ontwikkelingen en de veranderingen in het landschap binnen onderzoek en onderwijs. Ik ben Maurice Vanderfeesten.
+
+David Oldenhof: Ik ben David Oldenhof. Vandaag gaan we praten over de toekomst van onderwijsondersteuning.
+
+Maurice Vanderfeesten: Hoe ziet het ideale plaatje voor onderwijsondersteuning eruit in 2030 en wat zijn de factoren die verandering teweegbrengen vandaag de dag? Is het de erfenis uit het verleden die verandering moeilijk maakt? Wat is er nodig om daar te komen?
+
+David Oldenhof: Dit bespreken we met onze gasten: Cees van Gent, hoofd onderwijsondersteuning bij de universiteitsbibliotheek van de VU.
+
+Maurice Vanderfeesten: En Rens van der Vorst, technofilosoof en docent ICT en Engineering aan de Fontys Hogeschool.
+
+David Oldenhof: We beginnen met Rens. Wat doet een technofilosoof?
+
+Rens van der Vorst: Die denkt heel de dag na over de impact van technologie. Dat is lekker belangrijk.
+
+David Oldenhof: Wat doe je dan bijvoorbeeld? Waar denk je dan over na op dit moment?
+
+Rens van der Vorst: Uiteindelijk gaat het om de kernvraag: maakt technologie ons leven beter en hoe zorgen we ervoor dat we allemaal betere mensen worden in een betere wereld met betere technologie en wat verstaan we dan precies onder beter? Het zijn makkelijke vragen, maar het is best lastig om daar antwoorden op te formuleren. Met de snelheid waarmee technologie zich ontwikkelt, wordt het alleen maar belangrijker om erover na te denken.
+
+David Oldenhof: Wat bespreek je bijvoorbeeld met je studenten?
+
+Rens van der Vorst: Ik bespreek met de studenten bijvoorbeeld waarom data fantastisch zijn, maar alleen als je de tekortkomingen begrijpt, hoe AI in elkaar zit, hoe we ervoor kunnen zorgen dat de technologie ons betere mensen maakt, in plaats van dat wij ons als mensen steeds meer conformeren aan de wetten van de technologie. Dat doe ik meestal met allerlei echte challenges, echte opdrachten die de studenten aan het bouwen zijn, dingen die de studenten aan het doen zijn. Die worden dan tegen het licht gehouden. Dit is een nieuw soort framework meegeven aan die studenten om daar beter over te kunnen nadenken.
+
+Maurice Vanderfeesten: Kun je een voorbeeld geven van hoe je die studenten uitdaagt? Welke opdrachten zijn dat dan precies? Kan je één opdracht geven waarvan je denkt: dit is heel interessant of daar ben ik trots op?
+
+Rens van der Vorst: Wat we gemaakt hebben met de studenten, is bijvoorbeeld dat we proberen een einde te maken aan de CAPTCHA. Dat ken je wel, dat je die plaatjes zo moet aanklikken en die verkeerslichten moet herkennen. Als je er heel goed over nadenkt, is het best onmenselijk, want je moet aan een robot bewijzen dat je geen robot bent door robotdingen te doen. Dat is belachelijk. Toen hebben wij nagedacht van: kunnen we niet iets bouwen waarbij je weliswaar moet bewijzen dat je geen robot bent, maar op een andere manier, namelijk dat je bewijst dat je mens bent? Dat is iets heel anders. We hebben een variant gebouwd die een beroep doet op menselijke eigenschappen, in dit geval humor. Die draait inmiddels. Dat soort dingen doen we dan.
+
+Maurice Vanderfeesten: Humor vind ik leuk. AI kan tegenwoordig ook emotie tonen. Op een gegeven moment moeten we daarbij weer een stapje voor zijn, maar het is een goed begin.
+
+Rens van der Vorst: Dat klopt. Als technologie steeds geavanceerder wordt, wordt het steeds belangrijker om te onderzoeken wat ons echt menselijk maakt, want pas als wij begrijpen wat ons menselijk maakt, kunnen we technologie bouwen die ons echt ondersteunt.
+
+David Oldenhof: Wat zijn jouw eyeopeningmomenten voor studenten, dat ze daarover hebben nagedacht?
+
+Rens van der Vorst: Die zijn er heel veel. Je kunt bijvoorbeeld tegen de studenten zeggen: je kunt wel iets een klant vragen, maar klanten weten niets en gebruikers weten ook niets. Ze weten helemaal niets. Alleen zijn ze dat zo geleerd, van: je moet eerst empathizen, design thinking, met je klant empathizen en dan bouw je technologie en dan laat je dat aan die klant zien en wordt die klant er blij mee. Dat komt doordat je hem meegenomen hebt. Dat is het stockholmsyndroom, maar als je echt erover gaat nadenken, kom je er vanzelf achter dat die klant helemaal niet zo heel anders denkt en iets heel anders wil en dat hij vaak ook dingen wil die helemaal niet goed voor hem zijn. Hij wil bijvoorbeeld dat iets gemakkelijk wordt, maar gemakkelijk betekent ook vaak dat iets minder waardevol wordt. Uiteindelijk heeft hij dan niets. Je moet veel beter daarover leren nadenken en dat zit helemaal vol met eyeopeningmomenten. Je moet ze het nu en dan alleen een beetje onder hun neus wrijven, net als een puppy.
+
+Maurice Vanderfeesten: Daar ben ik benieuwd naar. We komen misschien straks terug op die methode, juist niet design thinking gaan doen voor het ontwikkelen van betere dienstverlening voor het onderwijs. Daar komen we misschien straks op terug.
+
+Rens van der Vorst: Nee, dat moet je vooral niet doen. Dat is goed.
+
+Maurice Vanderfeesten: Cees, kun jij dan misschien in twee zinnen uitleggen wat we verstaan onder waar jij het hoofd van bent, - onderwijsondersteuning - in de context van bibliotheken misschien?
+
+Cees van Gent: De universiteitsbibliotheek van de VU heeft een afdeling die onderwijsondersteuning heet. Bij mijn beste weten is dit een van de weinige niet-geïntegreerde ondersteuningsdiensten binnen de academische instellingen. Meestal wordt onderwijsondersteuning wel gedaan bij andere instellingen, maar is het onderdeel van een andere afdeling. Bij ons is het vrij specifiek. Wij richten ons in ieder geval op het vinden, het helpen en het onderzoeken van content en hoe dat te gebruiken in het onderwijs. Dat is onze hoogste doelstelling. Content wordt ook wel eens onderwijsleermateriaal genoemd. Iedere instelling heeft een elektronische leeromgeving. Bij ons is dat Canvas. Wat plaats je allemaal in Canvas om de studenten verder te ontwikkelen en hoe plaats je dat in Canvas en wat gebruik je daarvoor? Dat is waar wij - in ieder geval Canvas bij de VU - mee bezig zijn. In het voorgesprek hadden we het even over het ondersteunen van studenten. Dat doen wij niet, maar uiteindelijk komt het altijd ten goede van de student. We zoeken naar mogelijkheden en oplossingen om het onderwijs gemakkelijker te laten verlopen.
+
+Maurice Vanderfeesten: Dat zijn mooi twee zinnen, precies, afgemeten. Op een bepaald moment beantwoord je meteen de vraag : waarom is dat nodig vanuit de bibliotheek?
+
+Cees van Gent: Wil je dat ik ze beantwoord?
+
+Maurice Vanderfeesten: Ja, geef maar een antwoord erop. Dat vind ik interessant.
+
+Cees van Gent: De bibliotheek is de instantie, de instelling die content in de breedste zin beheert. Dat doet ze al 2.000, 3.000 jaar, zolang als bibliotheken bestaan natuurlijk. Ze verzamelen het, ze organiseren het, ze zetten het op een goede plek neer, ze meten en dateren het en ze zorgen dat het terug vindbaar is. Het is beter dat de bibliotheek dat doet, omdat die over het algemeen in staat is om dat op een brede wijze te organiseren, anders dan de individuele persoon.
+
+Maurice Vanderfeesten: Wat vind jij er leuk aan om daar te werken? Het is geen sollicitatiegesprek.
+
+Cees van Gent: Ik heb mijn hele leven lang niet bij een dienst gewerkt. Ik werk sinds 2019 bij een dienst en dat is de universiteitsbibliotheek. Zoals een student niet weet dat er onderwijsondersteuning is, zo wisten de faculteiten waarschijnlijk niet dat er een dienst is die hen helpt bij het ontzorgen. Dat vond ik er heel erg leuk aan: ervoor zorgen dat er oplossingen op mogelijke problemen gevonden worden, die ervoor kunnen zorgen dat het een stukje makkelijker wordt voor de docent. Een ander ding was - maar dat heeft hier helemaal niets mee te maken - dat de druk binnen een faculteit op totaal andere wijze beleefd wordt dan de druk binnen de universiteitsbibliotheek. Dat is wat relaxter.
+
+David Oldenhof: Een relaxte sfeer bij de universiteitsbibliotheek.
+
+Maurice Vanderfeesten: Dat kan ik beamen. Even kijken. Als we teruggaan naar de hoofdvraag over de toekomstdriehoek. We gaan nu de toekomst van onderwijsondersteuning - dank je wel David - schetsen aan de hand van de toekomstdriehoek. De toekomstdriehoek is een eenvoudig instrument, ontwikkeld door Sohail Inayatullah, om het verleden, het heden en de toekomst in kaart te brengen en zo de ruimte daartussen van de waarschijnlijke toekomsten te verkennen. Het basisidee is dat er drie dimensies zijn die de meest waarschijnlijke toekomsten vormgeven. Het gewicht van het verleden, - dat is de last van het verleden - de druk van het heden - de ontwikkelingen die nu plaatsvinden - en de aantrekkingskracht van de toekomst. De spanning en interactie tussen die drie krachten vormen die driehoek. We beginnen bij het heden, want het heden bevat momenteel veel factoren die drijfveren zijn voor verandering. Dat kan politiek en sociaal van aard zijn, geopolitiek zelfs zien we verschuivingen plaatsvinden, maar ook technologisch en economisch. Om erachter te komen wat die invloedfactoren zijn, willen we van jullie het volgende weten. David?
+
+David Oldenhof: Wat zien jullie als belangrijkste impact van technologie op het onderwijs op dit moment? Wat zien jullie gebeuren daarin?
+
+Cees van Gent: Ik weet niet of jullie die parabool - is dat een parabool? - of in ieder geval die grafiek kennen waarin je technologische ontwikkelingen ziet. Die gaat sinds een jaar of tien sky high. Volgens mij begon die bij de uitvinding van de computer. Wat ik daar anders van vind, is dat die een beetje hijgerig is. De hijgerigheid zit hem erin dat hoe meer technologie er is, hoe meer bijzonder iedere uitvinding wordt gevonden, maar uiteindelijk is het telkens een kleine stap vooruit. Op dit moment lijken het hele grote stappen, maar het zijn steeds de kleine stapjes die bepalen dat we echt grote sprongen maken. Het is bijna een filosofische uitdrukking. We zitten nu op een gebied, als we in het heden kijken of naar de druk die we krijgen, hebben we geen idee van wat audiovisualiteit met ons doet.
+
+Cees van Gent: Daarom zijn we zo zenuwachtig. Wat we niet doen, is, terwijl we die grafiek of die boog hebben, - jij hebt de juiste uitdrukking daarvoor, Maurice - kijken wat er in het verleden gedaan is en wat we daarvan kunnen leren. Daar zijn ook de oei-groeisprongen geweest en daar zijn we over het algemeen redelijk goed uit voortgekomen. Nu lijkt er een soort angst te zijn en te ontstaan alsof er een wedstrijd gelopen wordt, maar die angst is - denk ik - hetzelfde als 150 jaar of misschien langer geleden met de uitvinding van telefonie of elektriciteit.
+
+Maurice Vanderfeesten: De stoommachine.
+
+Cees van Gent: Stoommachines, industriële revolutie en dat soort dingen. De angsten van de mens blijven wat dat betreft hetzelfde en omdat we met zoveel zijn en omdat we met zoveel meningen zijn, lijkt de angst opeens een stuk groter. Wat ik mis in dit hele verhaal is een blik die er op een vriendelijke wijze naar kijkt.
+
+David Oldenhof: Een soort relativerende blik misschien ook.
+
+Cees van Gent: Dat is weer zo'n modewoord.
+
+David Oldenhof: Een soort puppyface. Misschien kan een technofilosoof ons helpen bij het vinden van de juiste uitdrukking. Zie jij dat ook zo, Rens? Dat een soort van hypes worden gecreëerd, terwijl het beter is om naar de wereld te kijken: hoe gaan mensen met technologieën om? Hoe worden die geadopteerd?
+
+Rens van der Vorst: Gedeeltelijk ben ik het daarmee eens. Je ziet heel vaak een hoop fuss about nothing, much to do about nothing. Tegelijkertijd denk ik dat je je ook zou kunnen afvragen of er nu niet iets anders aan de hand is. Er zijn namelijk twee grote trends die mij altijd opvallen. De ene trend is dat wij als onderwijsinstelling - in dit geval mijn onderwijsinstelling, maar het kan ook die van jullie zijn of Nederland als onderwijsinstelling - de afgelopen 20 jaar gigantisch veel geïnvesteerd hebben in technologie. Wij bij Fontys hebben in 20 jaar al € 300 miljoen in technologie geïnvesteerd. De interessante vraag is natuurlijk: wat heeft dat opgeleverd? We hebben al die investeringen in Canvas en roostersystemen en wifi en connecties en apps en weet ik wat allemaal.
+
+Rens van der Vorst: Als we kijken naar de belangrijkste key performance indicatoren, dan zien we: zijn de studenten gelukkiger geworden? Nee. Sterker nog, ze zijn vaak ongelukkiger. Studeren ze sneller af, kunnen ze sneller hun opleiding halen? Nee. Is de opleiding goedkoper geworden? Ook niet. Is het misschien zo dat de docenten het dan rustiger hebben dan ooit, omdat ze al die handige technologieën hebben? Nee, ook niet. De docenten hebben het drukker dan ooit. De vraag is: we hebben al die fantastische technologieën gekregen in de afgelopen 20 jaar en alle key performance indicatoren van het onderwijs zijn er niet op vooruitgegaan. Dat is raar. Op een of andere manier heeft technologie toch niet automatisch een goede invloed op kennisintensieve industrieën zoals het onderwijs.
+
+Rens van der Vorst: Dan zie je dat de belangrijkste ontwikkelingen die we meemaken, vaak komen van dingen die we niet zelf hebben bedacht of die niet specifiek voor het onderwijs waren bedacht, zoals de hele discussie over de smartphone en nu natuurlijk alles wat te maken heeft met AI en generative AI en Chat GPT et cetera. Dat hebben wij niet bedacht. Dat was er in één keer. Het had wel een enorme impact. Wat mij dan vooral opvalt, is dat die technologieën zwaktes van het hele onderwijssysteem blootleggen. De smartphone legt bloot dat onderwijs helemaal niet interessant is, dat het veel interessanter is om naar je smartphone te kijken. ChatGPT legt bloot dat mensen graag afkijken. Mensen komen niet naar het onderwijs om te leren. Ze komen om gecertificeerd te worden.
+
+Rens van der Vorst: Stel je nu eens voor dat je een of andere volledig automatische hometrainer weg zou zetten in een sportschool. Niemand zou die gebruiken, want de mensen zouden zeggen: ik kom hier om te sporten. Op zo'n ding kan ik geen calorieën verbranden. Die hoef ik niet. Zet je zo'n variant ervan weg in een hogeschool of in een universiteit, dan raakt iedereen in paniek. De studenten zeggen niet automatisch: als ik ChatGPT kan gebruiken om meer te leren, doe ik het graag, maar als ik het kan gebruiken om vals te spelen zodat ik minder leer, doe ik het zeker niet, want ik ben hier om te leren. Dat is helemaal niet zo. Studenten zijn er namelijk vaak om een papiertje te halen en gecertificeerd te worden en met deze tool kan het op een andere manier en ontstaat er allerlei paniek.
+
+Rens van der Vorst: Een interessante vraag naar de toekomst toe zou zijn: hoe vind ik nu technologie en hoe herdefinieer ik studentenondersteuning? Wat ga je precies ondersteunen? Je ondersteunt zijn leerproces, zodat hij meer kan leren, toch? Hoe ga je technologie nu inzetten om ervoor te zorgen dat iemand meer kan leren in plaats van dat je je druk maakt om het feit dat hij minder gaat leren met die technologie?
+
+Cees van Gent: Hier zit nog een interessante vraag achter, Rens. Die vraag is: als hbo of als academische instelling leiden wij mensen op om dit soort technologieën te maken, maar die technologieën worden over het algemeen niet gebruikt om de instelling te verbeteren. We geven heel veel kennis aan de persoon en datgene wat zij leren, wat zij kunnen, geven ze niet terug aan de instelling. Dat geven ze meestal terug via Meta of via Microsoft, waardoor wij weer allerlei apps moeten gebruiken die geen grote winst opleveren. Ik vind het altijd heel bizar hoe het vergaat en verspreidt binnen de instellingen, maar degenen die er ergens gebruik van maken of in ieder geval winst uit maken, geven dat niet terug aan de instellingen, waardoor ze het zelf ook kunnen maken.
+
+Maurice Vanderfeesten: Je zegt twee verschillende dingen. Ik zie misschien AI, ChatGPT een beetje als de rekenmachine van vroeger. Dan werd er ook gezegd: op de basisschool moet je geen rekenmachine gebruiken, want dan weet je niet meer hoe je staartdelingen moet maken. Maar door gebruik te maken van die AI, kunnen de studenten nu andere vaardigheden gaan leren, waarbij ze hun tijd anders kunnen gaan indelen dan het maken van een staartdeling, door AI juist op een goede manier te gebruiken of misschien te bekijken welke trainingset erachter zit om bepaalde waarden te hechten aan de uitkomsten die uit de AI komen. Het andere punt wat jij zegt, Cees, is: het eigenaarschap van data, de autonomie of de soevereiniteit van ons onderwijs. Je zet een horde studenten op die techbedrijven.
+
+Maurice Vanderfeesten: Zij gaan van die AI gebruikmaken. In principe geven ze ook feedback aan die bedrijven of die informatie correct of niet correct is. Op die manier kunnen die bedrijven het systeem verbeteren, terwijl je wil dat die informatie weer terugvloeit in het onderwijs en dat het onderwijs daar betere dingen mee kan doen. Volgens mij is SURF nu ook bezig om daar een Nederlandstalige publieke AI te maken, vergelijkbaar met ChatGPT, maar dan voor de Nederlandse taal.
+
+Cees van Gent: Wat ik bedoel, is: de vakgroep artificiële intelligentie aan de VU bestaat volgens mij een jaar of achttien, negentien. Zij zijn per definitie degene geweest die ons hier hebben gebracht. De grap is dat zij ook geraadpleegd worden als het over ChatGPT gaat, maar zij geven het niet terug aan het onderwijs. Het is maar aan een heel klein groepje mensen aan wie zij het teruggeven. Dat zijn de studenten die bij die vakgroep of bij die faculteit het onderwijs volgen. Wat Rens bijvoorbeeld doet, is veel interessanter. Hij zet juist studenten in om mee te denken. Misschien moet je jullie onderwijsconcept uitleggen aan Rens. Zij zitten namelijk niet op de schoolbanken, - om het even heel strak te zeggen - maar zij maken hun eigen onderwijs. Zij creëren hun eigen onderwijs en zij creëren ook hun eigen eindtermen en eigen doelen. Klopt dat, Rens?
+
+Rens van der Vorst: Ja, je zegt het goed.
+
+Cees van Gent: Dat is veel interessanter, want dan kun je ook vragen aan die studenten: oké, wij helpen jou vooruit, help ons als instelling ook eens vooruit. Misschien zit er bij die studenten veel meer intelligentie om een beter roosterprogramma te maken dan de roosterprogramma's die we hier gebruiken, om maar iets te noemen, of veel meer intelligentie om - wat je net hebt gedaan - iets te doen met CAPTCHA.
+
+Rens van der Vorst: Misschien is ook erbij te zeggen: als je die kant opgaat, Kees,... Ik run een minor die Educational technology heet. Die weten beter wat het onderwijs nodig heeft dan onze studenten. Kunnen jullie geen educatieve technologie ontwerpen en start-ups maken die veel levensvatbaarder zijn? Je ziet ook dat dat type onderwijs zoveel mogelijk de standaard ondersteunende dingen probeert los te laten. Er zijn geen roosters, geen traditionele toetsen, geen traditionele colleges, zodat je zo weinig mogelijk IT daar nodig hebt en zoveel mogelijk kan focussen op dingen die wél belangrijk zijn. Dat gaat veel meer over feedback en zinvolle dialoog en dat soort dingen regelen. Je ziet dat hoe traditioneler het onderwijs is, hoe meer IT het nodig heeft - dat is heel raar - en hoe makkelijker het bedreigd kan worden door dit soort nieuwe technologie die komt binnenvliegen.
+
+Maurice Vanderfeesten: Is er een trend, Rens, dat dat over de brede linie zichtbaar is of is dat heel specifiek voor jullie vakgroep of alleen binnen Fontys?
+
+Rens van der Vorst: Nee. Je zou kunnen zeggen: als je traditioneel onderwijs hebt, komt er een student binnen en krijgt die aanbodgedreven allerlei vakken op zich af. Als je dat bijvoorbeeld flexibel wil maken door te zeggen dat hij zijn eigen leerroute kan bepalen, - wat je vaak hoort - dan zit daar een enorme IT-vraag aan vast, want dan moet je dat allemaal organiseren. Als je, zoals Cees zei, zou zeggen: wat wij doen, is zeggen: beste student, kom binnen, wat wil je leren? Zoek een challenge die erbij past en definieer je eigen eindtermen, dan heb je een veel lichtere IT-ondersteuning nodig. Hoe lichter je IT-ondersteuning is, hoe meer geld je bespaart, maar ook hoe meer flexibel je opleiding is en hoe meer ruimte er komt om na te denken over: wat is nu echt cruciaal dat iemand leert in zijn opleiding?
+
+Rens van der Vorst: Wat is echt zinvol? Wat wil iemand ook leren? Hoe kan ik hem daar dan ondersteunen met technologie? Dan kom ik bij een heel andere vraag dan dat die man bijvoorbeeld snel zijn lokaal vindt of snel de weg vindt of een beter rooster heeft of - weet ik veel - adaptief kan toetsen, want dat zijn helemaal geen relevante zaken meer. Je komt ergens heel anders terecht. Dat is iets wat superinteressant is, omdat je dan ook op een heel andere manier je support gaat organiseren en je technologie die erbij hoort, gaat organiseren.
+
+Cees van Gent: Dit is niet nieuw.
+
+Rens van der Vorst: Nee.
+
+Cees van Gent: Volgens mij deed ene Aristoteles het al.
+
+Maurice Vanderfeesten: Ja, hij was zijn tijd ver vooruit.
+
+Cees van Gent: Nee, juist niet. Hij was zijn tijd helemaal niet ver vooruit. Hij voelde aan wat de noodzaak was om mensen te laten groeien en dat was - de woorden die Rens ook zei - feedback geven, onderzoeken, kijken waar mogelijkheden liggen, in gesprek gaan met elkaar. Dat zijn we een beetje vergeten. We zijn een soort zaagmeelmachine geworden in het onderwijs: zenden, zenden, zenden, zenden.
+
+David Oldenhof: Waar zie je studenten het meest van aangaan? Waar haken ze het meest op aan? Waar zie je echt die intrinsieke motivatie ontstaan binnen jouw onderwijsinstelling, binnen jouw onderwijsaanpak?
+
+Rens van der Vorst: Wijzelf zien twee dingen. Het eerste is het doen van authentieke opdrachten. Dat heb jij ook, denk ik. Een collega van mij geeft altijd hetzelfde voorbeeld, Maurice. Als je Frans wil leren, dan moet je naar een Frans strand gaan met mooie meisjes die je wil versieren of mooie jongens die je wil versieren of waar je ook op valt, want dan leer je snel Frans.
+
+Maurice Vanderfeesten: Dat is relevant voor je.
+
+Rens van der Vorst: Dan is het zinvol. Als je in een klaslokaal op de banken zit,- net als mijn zoon van zestien - weet je helemaal niet waarom je Frans moet leren. Er is geen authentieke context. Als je authentieke opdrachten hebt, - als je tegen de studenten zegt: jongens, jij mag jouw technologische kennis inzetten om het onderwijs beter te maken of daadwerkelijk met dat bedrijf aan de slag te gaan om dat beter te maken of daadwerkelijk met dat festival de festival experience verbeteren of zoiets - dan zie je ze ontzettend aangaan, dan zie je dat er in hen iets tot leven komt dat het onderwijs overstijgt. Dan zeggen ze niet meer: wat moet ik nu precies in mijn portfolio om het te halen? Dan zijn ze druk bezig met die opdracht en als bijvangst halen ze hun semester. Dat is wat je wil bereiken.
+
+David Oldenhof: Denk je dat dat zowel voor hbo- als wo- instellingen geldt?
+
+Rens van der Vorst: Ik denk het wel. Zeker.
+
+David Oldenhof: Wat zijn - denk je - verschillen tussen dit soort instellingen en waar overlappen ze in de toekomst misschien juist veel meer?
+
+Rens van der Vorst: Ik denk dat het sowieso steeds ingewikkelder wordt om te zien waar ze precies verschillen en waar ze overlappen. Het scheelt ook per hbo- en per wo-instelling en je krijgt al die hybride vormen. Sommige wo-instellingen zijn best praktisch en sommige hbo-instellingen zijn plotseling veel academischer en wetenschappelijker geworden met een lectoraat. Het gaat allemaal door elkaar heen, maar voor iedereen geldt hetzelfde volgens mij. Volgens mij is het: hoe meer je kan aanbrengen voor iemand die het onderwijs volgt - wat de relevantie daarvan is, wat de zinvolheid daarvan is - en hoe meer je ze kan plaatsen in een authentieke context, hoe meer het ertoe gaat leiden dat ze ook ervaren dat ze iets willen leren in plaats van dat ze iets moeten leren. Dat is echt een gigantisch verschil. Dat klinkt heel eenvoudig, maar dat is echt een groot verschil. Dan kun je gaan nadenken over welke technologie je nodig hebt om dat gevoel van iets willen leren op de juiste manier te gaan ondersteunen. Dan kom je natuurlijk bij iets heel anders dan het moeten leren.
+
+Maurice Vanderfeesten: Vul dat eens aan. Welke technologie zou je dan nodig hebben? Hoe ziet dat dan eruit?
+
+Rens van der Vorst: Als je iets wil leren, betekent dat om te beginnen sowieso dat je technologie nodig hebt waarin je je eigen ontwikkeling kunt bijhouden in plaats van dat iemand anders jouw ontwikkeling bijhoudt en checkt of jij je vakjes haalt. Je zult je eigen ontwikkeling moeten bijhouden, je eigen feedback moeten ophalen. Soms moet je in staat zijn om middels bijvoorbeeld virtual reality-oplossingen of iets anders een authentieke context te kunnen creëren. Je moet mensen platformen geven waarop ze zelf technologie kunnen ontwikkelen of marketingstrategieën kunnen maken of al die andere dingen, waardoor ze zoveel mogelijk daadwerkelijk in een authentieke context terechtkomen. Dat is echt iets heel anders.
+
+Cees van Gent: Technologie moet ten dienste staan. Meestal zetten we technologie voorop, maar je moet helemaal niet doorhebben dat technologie je op dat moment ergens mee naartoe neemt. Het moet een vanzelfsprekendheid zijn.
+
+Rens van der Vorst: Dat denk ik ook. Het is bij ons ook vaak een struggle, omdat je ook heel veel ziet dat studenten die wij maximaal willen ondersteunen, dat bijna niet meer nodig hebben van ons, omdat technologie bijna altijd in het publieke domein beschikbaar is. Alleen staat dat publieke domein vaak onder druk vanwege allerlei wet- en regelgeving. Daar zit heel vaak een soort discrepantie die je aan het zoeken. Een student zal zeggen: als ik dat en dat moet doen, laat mij maar even wat plaatjes genereren met DALL-E of met ChatGPT een tekst creëren of laat mij maar even via Trello een werkbordje opstarten zodat ik met mijn klanten kan samenwerken et cetera. Wij denken dan vaak: ho, wacht even, hoe zit het met de privacy en beschikbaarheid en het archiveren van je activiteiten? Daar zitten uitdagingen.
+
+Maurice Vanderfeesten: Dat hoort inderdaad een beetje bij het hoofdstukje van het gewicht van het verleden.
+
+Rens van der Vorst: Het is ook het gewicht van het heden.
+
+Maurice Vanderfeesten: Die wetgeving.
+
+David Oldenhof: Dat is een hele mooie afsprekende visie van onderwijs dat mensen in staat stelt hun eigen doelen te bereiken en daar ontzettend veel te leren, maar, Cees, dan moet het academisch onderwijs flink op de schop als je dat voor elkaar wilt krijgen binnen bijvoorbeeld een academische instelling. Dan is er nogal wat gewicht uit het verleden dat dit zou tegenhouden. Hoe kijk jij daartegenaan?
+
+Cees van Gent: Wanneer een student in het academische onderwijs terechtkomt, moet hij een ongelooflijke hoeveelheid van wat hij geleerd heeft nu bij wijze van spreken uitdoen. De gemiddelde student van nu zit de hele dag in twee of drie werelden. Een van zijn werelden is de smartphone, waar van alles en nog wat gebeurt. Op het moment dat hij op een academische schoolbank terechtkomt, moet hij die over het algemeen laten gaan, want dan worden er allerlei academische vaardigheden van hem gevraagd die niet in die smartphone zitten. Ik denk dat niet die student zich moet aanpassen, maar dat het academische onderwijs zich moet gaan aanpassen. Als wij echt mensen met academische vaardigheden willen afleveren, - met de klassieke academische vaardigheden als: je moet toetsen of wat je hebt uitgezocht klopt, bronvermelding, dat soort zaken bedoel ik hiermee - dan zul je die student ook serieus moeten nemen in de historie die hij als persoon al heeft opgebouwd, wat hij de afgelopen zeventien jaar - als hij vandaag zou komen of volgende week zou komen - al heeft meegekregen vanuit al die technieken.
+
+Cees van Gent: We gaan nu een heel ander pad op, maar ik denk dat wij onze academische vaardighedenonderwijs ongelooflijk moeten gaan aanpassen om te kunnen voldoen aan academische scholing. We willen heel graag mensen in hokjes of certificaten duwen. Dan moet je hier beginnen. Als je nog steeds niveaus wil onderscheiden, zul je moeten beginnen met het accepteren dat er nieuwe vaardigheden nodig zijn voor de toekomst. Vroeger hadden ze het over 21st century skills. Ik zeg bewust vroeger. Dat is vier jaar geleden zo'n beetje. Ik denk dat het nog veel rigoureuzer zou moeten. Ik denk dat je al op de kleuterschool moet gaan beginnen om die skills te gaan veranderen. In Nederland zijn er kleuterscholen waar Nederlands gegeven wordt.
+
+Cees van Gent: Ze noemen het geen Nederlands. Ze noemen het taal. Er wordt Engels gegeven. Dat wordt wél zo genoemd. Er zijn zelfs kleuterscholen die Chinees geven. Dat is een taal die niet bestaat. Ik vermoed dat ze Mandarijn bedoelen Wat ik echt absoluut niet begrijp, is dat er nog geen kleuterschool is die mensen leert programmeren, want dat is ook een taal. We zijn nog niet echt heel erg vreselijk goed bezig met het analyseren van de levels waarop we mensen willen gaan indelen voor de nabije toekomst.
+
+Maurice Vanderfeesten: Als je wat er allemaal niet is, omdraait, hoe ziet het ideale plaatje er dan uit? Wat is de aantrekkingskracht van de toekomst?
+
+Cees van Gent: Wat mij het meest zou intrigeren, is hoe men in staat is om zo meteen weer verbinding te zoeken. Er op dit moment alleen maar virtuele verbinding. Ik zie en ik merk - kijk maar om je heen als je in een trein zit - dat mensen wel met elkaar in verbinding staan, maar niet meer op een manier zoals ik vroeger met mensen in verbinding stond en ik ben benieuwd hoe men dat gaat vormgeven de komende 10, 20 jaar.
+
+David Oldenhof: Is het dan met behulp van technologie of moeten we de technologie juist uitzetten?
+
+Cees van Gent: De telefoon is een technologisch hoogstandje. Telefonie is een technologisch hoogstandje. Dat weet ik niet. Ik denk dat je aan de technologie niet ontkomt. Je ontkomt in ieder geval niet aan de infrastructuur.
+
+Maurice Vanderfeesten: Rens, hoe zie jij dit? Wat is jouw ideale plaatje van de toekomst?
+
+Rens van der Vorst: Mijn ideale plaatje is: ik denk heel erg dat het heel tof zou zijn als onderwijs teruggaat naar waarvoor het bedoeld is. Ik heb het al een paar keer gezegd in deze podcast. Dat is leren. Nu is het zo dat alles draait om certificeren. Dat papiertje is echt superveel waard. Als je kijkt naar Nederland, mag je niet meer discrimineren, toch? Dat is een goede zaak. Als je iemand aanneemt, mag je niet zeggen: Cees neem ik niet aan, want hij is veel te oud. Dat mag niet, want dat is leeftijdsdiscriminatie. Je mag ook niet zeggen: die neem ik niet aan, want die heeft niet de goede huidskleur of die heeft niet het goede gender. Maar je mag moeiteloos zeggen: die persoon neem ik niet aan, want die heeft 25 jaar geleden niet het goede diploma gehaald. Ik heb hier toevallig ook iemand die net een ander diploma gehaald heeft.
+
+Rens van der Vorst: Ik neem die aan, terwijl dat helemaal niet meer relevant is. Het zou heel tof zijn als we dat certificeren zouden kunnen loslaten en meer zouden teruggaan naar leren. Je komt bij Fontys of bij de VU of whatever. Wij leren jou zoveel mogelijk. Daar hebben we alles op ingericht. Al die sheeting en al die andere dingen hoeven we niet meer te doen. Je leert hier zoveel je kan. Het ligt aan jou hoeveel je leert. Dan ga je op een gegeven moment weg en heb je een hoop dingen geleerd en die ga je ergens in de praktijk brengen. Veel plezier ermee! Als je het niet kan, komen ze er vanzelf achter dat je er niet goed in bent. We kunnen alleen maar vertellen wat wij denken dat jij geleerd hebt. Als je dat zou doen, is dat een heel andere manier van denken.
+
+Rens van der Vorst: Dan kan iemand twee jaar bij ons komen studeren, of drie of zes of whatever, hoeveel hij ook wil leren. Dan kan hij allerlei kanten opgaan. Dan kan hij zelf verzamelen en bewijzen wat hij allemaal geleerd heeft. Dan gaat hij daarmee uiteindelijk die arbeidsmarkt op, die continu aan het veranderen is, ook onder invloed van die technologie. Op die manier heb je een heel ander model. Een beetje dromen over de toekomst: dat is het ideale plaatje. Als je dat heel andere model hebt, valt er zoveel druk weg in de instelling zelf, want dan is dat hele wantrouwen weg. Heb je het echt geleerd? Heb je niet valsgespeeld? Heb je niet met je rekenmachine of je ChatGPT lopen rotzooien? Kan je het echt? Wat zijn de accreditatienormen? Dat valt allemaal weg en kun je je weer terug gaan fixeren op waar het echt om gaat, namelijk: wat wil jij leren en hoe kunnen we je daarbij helpen?
+
+David Oldenhof: Wat is de rol van bijvoorbeeld de docent en de ondersteuning van zo'n universiteit? Wat is de waarde van zo'n instelling? Kunnen studenten dat ook een soort van zelf zonder een instelling?
+
+Rens van der Vorst: Ja, dat kunnen ze inderdaad ook zelf zonder een instelling. Dat is interessant, want dan krijg je precies die vraag voor je neus: wat is dan nog de waarde van de instelling? Dat is natuurlijk een supergoede vraag, toch? Het is heel fijn om die vraag te kunnen stellen.
+
+Cees van Gent: Wat is de waarde van accreditatie?
+
+Rens van der Vorst: Dan kun je ook weer gaan denken: oké, de waarde van een instelling is heel veel: - wat Cees ook zei - wij kunnen ontmoetingen organiseren. Wij kunnen dingen on campus, fysiek laten gebeuren, waarbij je allerlei skills kunt opdoen die je technologisch veel moeilijker voor elkaar krijgt. Wij hebben gebouwen. Wij hebben mensen die daarbij kunnen helpen. Dat is een duidelijke waarde van een instelling die heel anders is dan in de online wereld. We kunnen ook nadenken - wat jij net ook vroeg aan Cees - over: speelt technologie in die toekomst wél een rol of niet? Mijn antwoord zou zijn: heel erg, maar wel veel betere technologie. Op dit moment hebben we technologie die vooral heel goed in staat is om onze slechte eigenschappen te versterken.
+
+Rens van der Vorst: Als je denkt: ik wil mijn studenten of mijn burgers of whatever een beetje bozer en impulsiever maken, een beetje polariseren, tegen elkaar opzetten en voorliegen en dat soort dingen, dan heb je al alle technologie die je nodig hebt. Als je zou zeggen: ik wil mijn burgers een beetje socialer en creatiever en aardiger voor de buurvrouw en leukere mensen maken, dan is dat supermoeilijk met technologie. Onze huidige technologie - gecombineerd met het kapitalistische model waar Cees het ook over had: iedereen gaat werken voor die bedrijven - is veel te veel in staat om onze slechte eigenschappen te versterken in plaats van onze goede eigenschappen te versterken.
+
+David Oldenhof: Zie je ergens bedrijven of technologieën die wél worden ontwikkeld om de goede kanten te ontwikkelen? Zie je ergens iets van hoop?
+
+Rens van der Vorst: Ik zie dat een beetje, maar die zijn heel klein of heel sporadisch. FaceTime vind ik een mooie technologie. Dan kan je nog eens met je oma praten terwijl je er niet naartoe hoeft. Teams kan best prima zijn als je het een-op-een gebruikt, want dan kan je je studenten tien keer spreken in plaats van één keer per jaar. Er zijn van die fragmenten, er zijn ook bedrijven die dat proberen te doen, maar fundamenteel is het heel ingewikkeld. Ik geef altijd een voorbeeld. Als ik een boze tweet stuur, - of een X of een post of hoe ik het noem, iets over Maurice Steijn, bij voorkeur, want ik ben een Bredanaar, dat klikt niet - dan zul je zien dat X of Twitter dat meteen herkent. Die gaat die tweet vervolgens onder de aandacht brengen van een hoop mensen, omdat ze denken: als iedereen boos wordt, verdienen wij meer geld.
+
+Rens van der Vorst: If you enrage them, you engage them. Ze zouden ook kunnen zeggen: Rens stuurt een boze tweet. Die herken ik. Die hou ik even tien minuten vast en na tien minuten vraag ik aan Rens: luister, kijk even, wil je deze tweet echt versturen? Dan zul je zien dat ik misschien zeg: nee, doe maar niet. Dan is dat technologie die denkt: er is een betere iemand en die betere iemand ga ik proberen aan te spreken.
+
+David Oldenhof: Dan zit daar geen commercieel belang achter. Dan ben je jezelf een beetje in de voet aan het schieten als je geld wil verdienen. Dan is daar een veel grotere rol voor bijvoorbeeld de overheid als non-profitinstelling om zoiets te doen.
+
+Rens van der Vorst: Ja, maar die rol wordt op allerlei andere gebieden moeiteloos genomen, als het gaat over aan welke privacyeisen je als instelling moet voldoen of over hoe veilig bepaalde producten of etenswaren die in Nederland komen, moeten zijn. Dan gaat het over technologie en dan geldt dat in één keer niet. Ik denk dat we daar veel volwassener in moeten worden. Het is een beetje besides the point, maar als we technologie gaan gebruiken in dat onderwijs om die studenten veel meer te laten leren, zullen we ook heel goed moeten nadenken over wat dan betere technologie is. Dat begint met een positief mensbeeld in plaats van een negatief mensbeeld.
+
+Cees van Gent: Wat heel verrassend is, is dat wij het gemiddeld in eens in de vijf zinnen hebben over profit, over winst, over modellen die systemen of bedrijven rijker maken. We hebben het niet over geesten die verrijkt worden. We hebben het elke keer over dollars in plaats van over geestelijk en sociaal kapitaal.
+
+Maurice Vanderfeesten: In plaats van het GDP wil je het BNG - het bruto nationaal geluk - meten.
+
+Cees van Gent: Ik denk dat dit staat of valt met de manier waarop wij mensen onderwijzen. Op een of andere manier begint die ratrace in West-Europese en niet in andere landen al heel erg jong en in Nederland extreem jong. Daar moeten ze op hun twaalfde feitelijk al kiezen. Mensen staan op hun twaalfde - en sommige al op hun elfde - al op een kruispunt. Dat is heel bizar.
+
+David Oldenhof: Cees, welk mensbeeld of welke filosofie zie jij achter de manier waarop aan de VU onderwijs wordt gegeven of waarop academisch onderwijs wordt gegeven?
+
+Cees van Gent: Jeetje.
+
+David Oldenhof: Zoals Rens het zei. Hij wil uitgaan van een positief mensbeeld, zelf leren in plaats van: de student wil toch niet leren. Er kunnen negatieve associaties aan het type technologie zitten dat we gebruiken, zoals anti cheat software enzovoort. Ik vroeg me af: wat zie jij om je heen? Het is een beetje groot geformuleerd, maar wat zie je als een soort van aannames over studenten om je heen, binnen de VU?
+
+Cees van Gent: Als ik om me heen kijk, dan zie ik dat studenten vanuit een bepaald bewustzijn specifiek kiezen voor de VU. Dat specifieke is niet alleen geografisch, - het is lekker dichtbij - is niet alleen sociaal, - mijn vrienden gaan er ook naartoe - maar dat komt omdat de VU ergens voor staat. Tenminste: de VU heeft haar marketing heel erg goed op orde. Ze zeggen dat ze ergens voor staan. Dat zijn de studenten die inkomen, de bachelorstudenten. Laten we verheugd zijn, laten we blij zijn dat die boodschap die wij willen uitstralen - dat is een inclusieve boodschap, dat is: we kijken naar elkaar om, dat soort dingen - landt bij de inkomende studenten. Ik vermoed zelfs dat die ook landt bij de internationale inkomende studenten op masterniveau.
+
+Cees van Gent: Nu heb ik heel slecht vergelijkingsmateriaal, want ik zie alleen maar wat er op de VU gebeurt. Ik kan slecht zien hoe dat bij Fontys of in Twente is. Naar Twente ga je voor een ander soort onderwijs of in ieder geval voor een ander soort leren of kennisontwikkeling. Als je dan kijkt naar de VU zelf, - als het onderwijs wordt verzorgd of als het instituut opererend is - dan zijn er heel veel prachtige visies waar je het absoluut niet mee oneens kan zijn. Als je het er wél oneens mee bent, moet je niet op de VU zijn. Dan wordt het weer wat minder. Dan wordt de uitvoering ingewikkelder en complexer, zegt men. Ik heb natuurlijk geen seriële onderzoeken gedaan, maar dan lijkt het alsof dat te moeilijk wordt om je daaraan te houden.
+
+Cees van Gent: Dat snap ik ook, want de gemiddelde docent moet natuurlijk eerst zijn kennis overdragen en kan dan pas weer kijken naar visie en waar de VU voor staat. Het is een hondje dat zichzelf op het strand achternaloopt en de hele tijd zijn staart probeert te pakken. Dan wordt het heel erg lastig. Dat gezegd hebbende, denk ik dat het DNA of de kleur van de VU, net wat je zeggen wil... Ik mag het woord DNA in het bijzijn van Rens niet gebruiken, want NAC heeft namelijk geen DNA en Ajax wél. Dat DNA gooien ze elke keer over die hekken heen als er een doelpunt gemaakt is. Tegenwoordig wordt er zoveel DNA over die hekken heen gegooid. Even wachten.
+
+Maurice Vanderfeesten: Is het haploïd of diploïd?
+
+Cees van Gent: Ik denk dat dat echt een gigantisch lang proces is om die blauwe kleur te krijgen op dat DNA. Dat staat wel met een visie die van bovenaf komt, maar die wordt niet heel snel geadopteerd. Dat is een heel lang antwoord op jouw vraag.
+
+David Oldenhof: Academisch onderwijs is hartstikke populair. Het is een ideaal. Veel mensen willen een academische graad. Denk je dat het ook ergens onder druk staat? Je ziet bijvoorbeeld veel traineeships die zeggen: we leiden ze lekker zelf op. Zie je bijvoorbeeld gevaren voor de komende jaren voor academisch onderwijs, concurrenten die dingen net beter kunnen doen of die studenten die accreditatie die ze zoeken toch op een of andere manier kunnen geven?
+
+Cees van Gent: Of ik dat zie? Er is natuurlijk volgens mij door DUO en waarschijnlijk ook door het ministerie van OCW, Studielink en SURF een gezamenlijke routekaart voor flexibel onderwijs en levenslang leren onderzocht. Anderhalf jaar geleden hebben ze dat gedaan. Daar is dat heel erg duidelijk dat het academische onderwijs niet meer verzorgd moet worden door een instelling, maar dat het looppad naar die academische beloning - je noemt jezelf een Master of Arts of wat dan ook - door de student zelf in handen moet genomen worden en dat de instellingen in de landen - in ieder geval in Nederland - met z'n allen moeten gaan afspreken om dat goed te ondersteunen. De gedachte is dat het onderwijs veel modulairder wordt en dat je niet meer met diploma's gaat werken, maar met credentials of wat dan ook, dat je op een gegeven moment met een soort wallet over straat gaat lopen als student: ik heb dit en dit en dit en dit daar en daar en daar en daar en daar opgehaald en dit is mijn niveau van academische scholing.
+
+Maurice Vanderfeesten: EduPledges.
+
+David Oldenhof: Je ziet best vaak bij universiteiten dat ze denken: de waarde van een opleiding zit in de content en in wat ze leren. Dat is ook een aanname, want ik kan ook zeggen: studenten gaan studeren om mensen te leren kennen en een leuke tijd te hebben en sociale dingen te doen en te feesten. Dat studeren de context is, is een soort van leuk, maar ik ben hier voor een heleboel redenen.
+
+Cees van Gent: Rens, je vergat volgens mij één heel belangrijk ding in de opsomming van waarom je leert en dat is inspiratie. Volgens mij kiezen mensen - bewust of onbewust - ook voor opleidingen omdat ze door een persoon of door een groep mensen geïnspireerd worden of in ieder geval getriggerd worden. Je had het net over: je gaat Frans leren. Dat doe je het beste op het strand in Frankrijk, omdat daar een interessant persoon is. Volgens mij kun je ook heel bewust Frans gaan leren omdat die docent die dat doet een ontzettend leuk iemand is en jou inspireert, terwijl je daarvóór helemaal geen flauw idee had dat je Frans zo leuk vond.
+
+Rens van der Vorst: Ik denk het ook, Cees. Je raakt een raak punt en jullie ook, want het is heel terecht. Je kiest ook voor wat je inspireert. Dat kunnen je medestudenten zijn, een gaaf gebouw, een gave stad, dat soort elementen. Uiteindelijk is het natuurlijk ook zo, als je naar de invloed van technologie in het onderwijs kijkt: ik denk nog steeds dat, als je ergens op een instelling studeert met de allerbeste technologische voorzieningen denkbaar, maar je toevallig een lul van een docent hebt, je dan geen goede opleiding hebt. Als je op een school studeert met de meest creepy technologische instelling die je je maar kan bedenken, - wifi die constant aan het struggelen is, dat soort ellende - maar je één fantastische, inspirerende docent hebt, dan heb je een geweldige opleiding.
+
+Rens van der Vorst: Uiteindelijk is het heel belangrijk om het onthouden dat wat wij doen - onderwijs - een mensenbedrijf is. Dat is echt een mensenbedrijf. Dat betekent dat al die terminologie die ook hier even voorbijkomt... Soms hoor je van die managertypes zeggen: software is eating the world. Elk bedrijf wordt een softwarebedrijf. Ik voorspel: als onderwijs een softwarebedrijf wordt, gaat het niet de goede kant op. Het is een mensenbedrijf. Het gaat om de interactie tussen mensen, tussen studenten onderling, tussen studenten en inspirerende docenten. Dat is waar de echte meerwaarde van dit soort instellingen zit. Dat beantwoordt ook een beetje jouw vraag, - denk ik - Maurice: wat is dan nog de meerwaarde als je geen papiertje meer kan halen? Dat is het volgens mij. Het is echt een mensenbedrijf.
+
+Rens van der Vorst: Je kunt je wél afvragen: hoe kan ik nu technologie gebruiken in studentenondersteuning en ondersteuning in het algemeen, ook van docenten zodat dat mensenbedrijf meer tot bloei komt? Als een docent alleen maar achter zijn laptop zit of alleen maar bezig is met administratieve processen, als je de student alle ruimte geeft om in zijn smartphone en in zijn TikTok-filmpjes verloren te raken of alleen maar online dingen tot zich laat nemen, dan ben je het mensenbedrijf aan het verwateren en dan moet je je echt afvragen: wordt er hier dan meer geleerd, is het dan meer betekenisvol? Of moet je juist die technologie inzetten om ervoor te zorgen dat de interactie tussen mensen - die zinvolle dialoog die daar tot stand komt - meer plaatsvindt en waardevoller wordt en beter wordt gefaciliteerd? Mijn antwoord is natuurlijk: ja. Daar zit de kern van betere ondersteuning met technologie.
+
+Maurice Vanderfeesten: Dat vind ik een mooie afsluiter. David, wat vind je daarvan?
+
+David Oldenhof: Ik denk dat we ons best vaak blindstaren op technologie om dingen efficiënter te houden, maar vaak is het ook een beetje om dingen beheersbaar te houden. Beheersbaar is vaak een beetje de antithese van creativiteit en groei van studenten op individuele basis. Ik denk dat we hele mooie visies hebben we neergezet. De praktische uitwerking van hoe dat nu gebeurt, kunnen we de komende tijd verkennen. We hebben een paar voorbeelden gehoord van hoe je die interactie kan versterken, maar het blijft altijd mensenwerk. Het is ook een beetje een oproep om meer geld uit te geven aan mensen en minder aan technologie, want het gaat uiteindelijk om mensen. Ik ben persoonlijk blij dat dit toch een van de belangrijkste conclusies is van een gesprek dat over technologie gaat.
+
+Rens van der Vorst: Om wat je net zei, David, - technologie is vaak gericht op efficiëntie - misschien nog wat te versterken, nog een mooi voorbeeld. Efficiëntie is natuurlijk geen waarde op zichzelf.
+
+David Oldenhof: Precies.
+
+Rens van der Vorst: Als jij efficiënt kan bestellen bij de McDonald's, ik heel graag, maar als ik efficiënt kan bestellen bij een restaurant waar ik uit eten ga, met een QR-code of zo, heel graag niet, want dan wil ik even met die ober praten, even welkom worden geheten. Ik wil die experience meemaken. Die technologie die op de ene plek heel goed werkt, werkt op de andere plek helemaal niet. Juist door heel goed na te denken over wat onderwijs nu echt is, kun je ook veel beter nadenken over welke technologie ik hier echt nodig heb en welke ook absoluut niet. Punt.
+
+Maurice Vanderfeesten: Dank. Ik zit te kijken. We zijn al ruim over tijd en we hebben nog een hoofdstukje gewicht van het verleden, maar in principe hebben we dat een beetje ertussendoor gebogen.
+
+David Oldenhof: Volgens mij zijn we klaar, Maurice.
+
+Maurice Vanderfeesten: Precies.
+
+David Oldenhof: Volgens mij hebben we al a lot of thruth on.
+
+Maurice Vanderfeesten: Zeker.
+
+David Oldenhof: Daar moet ik even over nadenken.
+
+Cees van Gent: We gaan al die Engelstalige uitdrukkingen eruit filteren.
+
+David Oldenhof: Je kan alles met AI vertalen.
+
+Maurice Vanderfeesten: Even één slotdingetje: hebben jullie nog iets wat jullie de luisteraars - die er misschien zijn - willen meegeven, iets te promoten waar ze naar moeten kijken of iets dergelijks of een levensles?
+
+Cees van Gent: Het onderwijs gaat over liefde, warmte en aandacht en mensen zien. Daar gaat onderwijs over.
+
+Maurice Vanderfeesten: Mooi.
+
+Cees van Gent: De technologie moet die liefde en warmte en aandacht op het juiste moment ondersteunen. Dat vergeten we wel eens.
+
+Rens van der Vorst: Ik zou willen zeggen: lees vooral Digitale gremlins, mijn nieuwe boek. Dat promoot ik dan even. Digitale gremlins kwam uit in april van dit jaar en is inmiddels al in de vierde druk. Het loopt als een trein. Het gaat heel erg over hoe we ons soms kunnen onttrekken aan de greep van het algoritme in onze zoektocht om een beter mens te worden. Het is ook weer on topic. Lees vooral Digitale gremlins. Je hebt het online, je hebt het als boek en ook als luisterboek, niet eens door mij ingesproken, want dan zat er een te vet Brabants accent op en dat paste niet helemaal bij de briljante inhoud. Doe dat vooral. Verder sluit ik me vooral ook heel erg aan bij de eindopsomming van Cees.
+
+Maurice Vanderfeesten: Heel hartelijk dank, Rens en Cees, voor jullie kennis en expertise en tot de volgende keer.
