@@ -41,10 +41,10 @@ De interviews zijn per afdeling gepland, onderverdeeld in de onderwerpen van de 
 - [**Opname 06 -- Toekomst van Digital Services and Infrastructures**](./ub2030-06-digital_services_and_infrastructures/)
 - [**Opname 07 -- Toekomst van Education Support**](./ub2030-07-education_support/)
 - [**Opname 08 -- Toekomst van Special Collections**](./ub2030-08-special_collections/)
-- [**Opname 09 -- Toekomst van Information Services**](./ub2030-09-information_services/)
+- [**Opname 09 -- Toekomst van Information Services (niet publiek)**](./ub2030-09-information_services/)
 - [**Opname 10 -- Toekomst van Library Desk Services**](./ub2030-10-library_desk_services/)
-- [**Opname 11 -- Toekomst van Aquisition and Metadata**](./ub2030-11-aquisition_and_metadata/)
-- [**Opname 12 -- Wrap up**](./ub2030-12-wrap/)
+- [**Opname 11 -- Toekomst van Aquisition and Metadata (geannuleerd)**](./ub2030-11-aquisition_and_metadata/)
+- [**Opname 12 -- Toekomst van Bibliotheek in de Maatschappij**](./ub2030-12-society/)
 - [**Opname 13 -- BONUS DeSci: Toekomst van Open Science Ecosystems**](./ub2030-bonus-01-desci/)
 
 # Voorlopige resultaten: Overzicht van Gedeelde Doelen en Overlappende Perspectieven
