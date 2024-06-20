@@ -74,7 +74,7 @@ So that is really the future that, that we think is what we need to drive for.
 
 ## The interactive scientific paper of the future
 
-**Philipp Koellinger:** And related to that, we're actually rethinking the concept of the scientific paper. So rather than just having the static P D F, what we're thinking of is an interactive. Type of scientific paper that actually links the core results to the underlying data and codes that were producing them.
+**Philipp Koellinger:** And related to that, we're actually rethinking the concept of the scientific paper. So rather than just having the static PDF, what we're thinking of is an interactive. Type of scientific paper that actually links the core results to the underlying data and codes that were producing them.
 
 So think of the main figures or tables in a paper where in order to check how those results actually ended up being produced, you would wanna be able to check the data and the court, and ideally you would actually be able to to just run the court on that data directly and verify that the figure or the table that is in the paper really has been derived from these artifacts.
 
@@ -86,7 +86,7 @@ And of course, you can also think of of peer review and other types of of contri
 
 And in these cases we're thinking of basically composable authorship tables that have git primitives in implemented, right? So you have an original version where anybody can then come in into this open state repository and actually suggest the fork to the original research object. That fork is also going to be publicly available.
 
-And then you can send a merch request to the original authors. And if they actually think that you're making a very important contribution to their work, then they can accept the merch request. And then you have a new version of that research object which lists the new contributors, either as authors or as as a type of external contribute.
+And then you can send a merge request to the original authors. And if they actually think that you're making a very important contribution to their work, then they can accept the merch request. And then you have a new version of that research object which lists the new contributors, either as authors or as as a type of external contribute.
 
 
 ## DOI's are not persistent identifiers
@@ -148,9 +148,9 @@ And so the entrance is basically telling us who has committed this update, when 
 So we have the storage redundancy in a protocol that cannot be shut off or put behind a paywall. Instead of having the current infrastructure, which pr which basically generates a very limited amount of media data that feeds into the data silos of publishers, which then sell it back to the scientific community at outrageous prices.
 
 
-## Descentralized Persistent Identifiers
+## Descentralized Persistent Identifiers (dPID)
 
-**Philipp Koellinger:** So let me talk a little bit about the the persistent identifiers that we have in the system. So in addition to these content addressed hashes, we have created something that we call the decentralized Persistent identifier or D P I D. So that is basically our way of having unique addresses for each research object that allow you to reference not only the most recent version or a particular version of the past, but you can go down into a particular component of that research object.
+**Philipp Koellinger:** So let me talk a little bit about the the persistent identifiers that we have in the system. So in addition to these content addressed hashes, we have created something that we call the decentralized Persistent identifier or D P I D or dPID. So that is basically our way of having unique addresses for each research object that allow you to reference not only the most recent version or a particular version of the past, but you can go down into a particular component of that research object.
 
 For example, a data set or a code file. And you can even go further and you can actually address a particular part of the data set or a particular part of the code or a particular sentence in the paper. And there's basically two different formats for that. There is a long format. Which has the entire cryptographic gra hash of the root Node, of the research object.
 
@@ -162,12 +162,12 @@ And finally, it should be decentralized, meaning that the names should correctly
 
 And Zuko originally proposed that it is actually impossible to have all of these three desirable properties at the same time. He said that you need to choose two out of the three, so you can have two out of three at most. But then 10 years later, the famous Aaron Schwartz, he actually wrote a paper that showed that it is theoretically possible to combine these three things to some extent.
 
-And this D P I D system that we have created is literally a technical implementation of of that solution to zuko, SPRI triangle. So it's secure, it's decentralized, but it's also human friendly. 
+And this dPID system that we have created is literally a technical implementation of of that solution to zuko, SPRI triangle. So it's secure, it's decentralized, but it's also human friendly. 
 
 
 ## Operations on research objects
 
-**Philipp Koellinger:** And with these DP IDs, you can now actually have new ways of interacting with these research objects that were previously not possible.
+**Philipp Koellinger:** And with these dPIDs, you can now actually have new ways of interacting with these research objects that were previously not possible.
 
 So the first one is, of course, that you can resolve to the metadata over the HTTP protocol which means that it is now possible for for crawling services and for software that people are writing to just do up to date analysis of what is actually out there what type of impact does it have, how are things connected to each other, and so on and so forth.
 
