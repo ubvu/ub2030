@@ -2,9 +2,6 @@
 
 ## Management Samenvatting
 
-
-## Management Samenvatting
-
 Met August den Hollander, hoogleraar Religieus Erfgoed aan de VU, en Michiel Cock, Hoofd van de afdeling Speciale Collecties is besproken wat de rol is van erfgoed in de moderne tijd, met een focus op de interactie tussen erfgoed en technologie, de toekomstige ontwikkelingen in de erfgoedsector, en de uitdagingen en kansen voor innovatie. De discussie behandelt hoe erfgoed kan bijdragen aan onderwijs en onderzoek, de potentie van digitale erfgoedcollecties, en het belang van inclusiviteit in de presentatie en het gebruik van erfgoed. 
 
 Dit verslag biedt een overzicht van een discussie over de rol van erfgoed in de moderne tijd, met nadruk op de interactie tussen erfgoed en technologie, toekomstige ontwikkelingen, en uitdagingen en kansen voor innovatie. De hoofdpunten zijn als volgt:
