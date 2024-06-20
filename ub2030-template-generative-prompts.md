@@ -6,7 +6,7 @@ Output: ub2030-??-???-gpt4-step1-summary.md
 
 -------
 
-Prompt: Maak een beknopte Management Samenvatting van de uitgebreidere samenvatting van het transcript:
+Prompt: Maak een beknopte Management Samenvatting van de uitgebreidere samenvatting van het transcript.  Beschrijf onder andere wie de gasten zijn en hun rol, wat het onderwerp is, wat de conclusies zijn:
 
 Input: ub2030-??-???-transcript.md
 
@@ -38,6 +38,14 @@ Prompt: Je bent een doortastende hulpvaardige programmamanager. Je moet een prog
 Input: ub2030-??-???-gpt4-step2-perspective.md
 
 Output: ub2030-??-???-gpt4-step3-next_steps.md
+
+--------
+
+Prompt: Gebruik de volgende roadmap, en plaats het in een verhalend scenario in de vorm van een dialoog tussen twee mensen uit een science-fiction roman:
+
+Input: ub2030-??-???-gpt4-step3-next_steps.md
+
+Output: ub2030-??-???-gpt4-step4-story_dialoge.md
 
 --------
 
