@@ -1,0 +1,3 @@
+# UB2030 | Toekomst van Bibliotheek in de Maatschappij | GPT4o Lonkend Perspectief
+
+De bibliotheek van 2030 moet een plek zijn waar wetenschap en maatschappij samenkomen, ondersteund door openheid, dialoog en toegankelijkheid van kennis. De bibliotheek zal een cruciale rol spelen in het faciliteren van de dialoog binnen de universiteit en met de bredere maatschappij, waarbij diverse perspectieven worden betrokken in het wetenschappelijke proces. Door de toenemende openheid in de wetenschap, moet de bibliotheek ook dienen als een ontmoetingsplek waar wetenschappelijke kennis begrijpelijk en toegankelijk wordt gemaakt voor iedereen, en waar dialoog met stemmen uit het verleden bijdraagt aan een diepere wetenschappelijke ervaring.
