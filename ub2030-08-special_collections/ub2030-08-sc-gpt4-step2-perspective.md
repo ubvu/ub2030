@@ -1,0 +1,3 @@
+# UB2030 | Special Collections | Lonkend Toekomstperspectief
+
+De toekomst van erfgoedcollecties is veelbelovend dankzij moderne technologieën zoals machine learning en digitale interpretaties, die de toegankelijkheid en bruikbaarheid van erfgoed aanzienlijk versterken. Innovaties in digitale platforms, ondersteund door het Netwerk Digitaal Erfgoed, verbeteren de digitalisering en zichtbaarheid van collecties, met mogelijkheden voor gebruik van linked open data. Deze technologische vooruitgangen, samen met het belang van object-based learning, wijzen op een toekomst waarin erfgoed nog relevanter wordt voor onderwijs en onderzoek, en bijdragen aan een diepgaand begrip en verbinding van diverse verhalen en identiteiten.
