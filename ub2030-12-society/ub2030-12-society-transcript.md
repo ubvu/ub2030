@@ -1,0 +1,165 @@
+# UB2030 | Toekomst van Bibliotheek in de Maatschappij | Transcript
+
+## Introductie
+
+Maurice Vanderfeesten: Welkom bij UB 2030, de podcast over de universiteitsbibliotheek die moet innoveren vanwege de snel veranderende technologische ontwikkelingen en de veranderingen in het landschap binnen onderzoek en onderwijs. Ik ben Maurice Vanderfeesten.
+
+David Oldenhof: Ik ben David Oldenhof. Vandaag gaan we praten over de rol van de universiteitsbibliotheek in het bevorderen van de dialoog in en met de maatschappij.
+
+Maurice Vanderfeesten: Hoe ziet het ideale plaatje voor de bibliotheek in 2030 eruit? Wat zijn de factoren die verandering teweegbrengen vandaag de dag? Wat is de erfenis uit het verleden die verandering moeilijk maakt? Wat is er nodig om daar te komen?
+
+David Oldenhof: Dat bespreken we met onze gasten Frank Kupper, theatermaker, onderzoeker bij het Athena Instituut en kwartiermaker wetenschapscommunicatie bij de VU Amsterdam.
+
+Maurice Vanderfeesten: En Hilde van Wijngaarden, directeur van de universiteitsbibliotheek aan de VU en verantwoordelijk voor het reilen en zeilen in de bibliotheek.
+
+David Oldenhof: Om te beginnen met Frank: je bent een creatieve geest en houdt van publieksinteractie, waarbij je prikkelende vragen stelt. Welke vragen stel jij mensen zoal in jouw dialogen?
+
+## Definities
+
+Frank Kupper: Dat hangt natuurlijk af van het onderwerp, maar het gaat altijd over het bij elkaar te brengen van mensen, om meer te leren over de complexe wereld waarin we leven en daarmee over jezelf en hoe je daar naar kijkt, in relatie tot anderen. Dat zijn vragen die reflectie en dialoog op moeten roepen.
+
+David Oldenhof: Wat is de waarde van dialoog? Wat is er nodig voor een goede dialoog?
+
+Frank Kupper: Dat zijn grote vragen. De waarde van dialoog is alweer een stap verder. Wat levert de dialoog ons op? Het begint al daarvoor met het feit dat dialoog er is. Als mens ben je continu in dialoog met de wereld om je heen: met mensen, met de niet-menselijke wereld om je heen en met jezelf. Dialoog is eigenlijk de zijnstoestand van de mens. Ook kennis ontwikkelen en leren doe je in dialoog. Dat is voor mij het belangrijkste. Soms vergeten we dat en dan is het extra belangrijk om die dialoog weer op te pakken en echt op te gaan zoeken. Dan heb je het over de waarde van dialoog. Ik zei net al dat we in een complexe wereld leven. We zien zelf allemaal maar een beperkt deel van de werkelijkheid. Je hebt anderen nodig om meer te leren over waar het over gaat. Dat is het eerste, het erkennen en je verdiepen in andere perspectieven om daarmee tot een beter idee te komen van waar het over gaat en wat we daarmee moeten.
+
+David Oldenhof: Er wordt vaak genoemd dat de maatschappij aan het polariseren is en dat mensen die dialoog moeilijk vinden. Wat is er nodig voor een goede dialoog?
+
+Frank Kupper: Er zijn een aantal dingen die daar belangrijk in zijn. Het gaat erom bereid te zijn om te luisteren. Dat is een heel belangrijke. Bereid zijn om te luisteren, om je te verdiepen in het perspectief van de ander, maar ook de bereidheid om je eigen vooronderstelling en aanname kritisch te bekijken en op de proef te stellen. En de bereidheid om op een open en creatieve manier niet alleen dat gesprek te voeren, maar ook te onderzoeken wat er mogelijk is. Ik heb nu drie keer het woord bereidheid gebruikt. Dat betekent dat dialoog een kwestie is van een bepaalde open en creatieve houding die je kunt en moet ontwikkelen, en van een omgeving die mensen helpt om dat op een veilige manier te doen.
+
+Maurice Vanderfeesten: Hilde, wat is jouw rol binnen de bibliotheek? En waarom wilde je juist graag dit onderwerp bespreken?
+
+Hilde van Wijgaarden: Mijn rol binnen de universiteitsbibliotheek en binnen de VU? Ik ben directeur van de Dienst Universiteitsbibliotheek en daarmee medeverantwoordelijk voor wat wij aan de VU aan onderzoek, onderwijs en valorisatie doen. Daar dragen we vanuit de verschillende diensten en de faculteit ons steentje aan bij. Met de universiteitsbibliotheek zorgen we ervoor dat iedereen aan de VU de beschikking heeft over de informatie die ze nodig hebben voor hun onderwijs en onderzoek, en dat ze hetgeen ze vanuit hun onderwijs en onderzoek produceren, met anderen kunnen delen.
+
+Hilde van Wijgaarden: Je ziet in bibliotheken - vooral de universiteitsbibliotheken - een duidelijke ontwikkeling van het aanbieden van informatie om te gebruiken naar het open delen van informatie die uit onderwijs en onderzoek komt. Dat betekent ook dat de universiteitsbibliotheek een heel andere rol is gaan krijgen, meer als verspreider van informatie. Daarbij is het woord "open" heel erg belangrijk geworden, omdat we steeds meer bezig zijn om iedereen te helpen om alle informatie die nodig is en gegenereerd wordt, open te delen. Als Frank "open en creatief" zegt, dan herken ik me daar meteen in, want dat is een rol die de universiteitsbibliotheek steeds meer op zich neemt, om op een open en hopelijk steeds creatievere manier de universiteit en iedereen die hier werkt en studeert te helpen.
+
+Hilde van Wijgaarden: Als UB zijn we faciliterend. Daarom heb ik best lang getwijfeld of onderwerpen zoals citizen science, wetenschapscommunicatie of de wetenschappelijke dialoog - die nieuw was voor mij - wel passen bij de UB. Dat is een beetje zoeken geworden, want het is een nieuwe rol voor een UB om niet alleen aan de achterkant passief te zorgen dat dingen verspreid, bewaard en gevonden worden, maar om ook actiever te helpen bij de verspreiding van die informatie. Bij die meer actieve rol die we de laatste jaren steeds meer op ons nemen, past een ondersteunende rol voor wetenschapscommunicatie en de dialoog. Dat is nieuw en daar zijn we nog een beetje in aan het verkennen, maar volgens mij zit er een duidelijke link met wat we in het verleden deden: de bibliotheek als plek waar de kennis samenkomt en de mensen die die kennis hebben, elkaar kunnen ontmoeten. Daar past het goed bij.
+
+Maurice Vanderfeesten: Een hernieuwde stap terug naar het verleden.
+
+Hilde van Wijgaarden: Vanuit onze kracht van het verleden kijken we naar hoe we die opnieuw kunnen inzetten in de toekomst. Zo wil ik dat het liefst zien.
+
+## Momentum van het Heden - Toekomst Driehoek
+
+Maurice Vanderfeesten: Dat is een heel mooi bruggetje naar het volgende onderdeel dat gaat over de toekomstdriehoek, aan de hand waarvan we gaan proberen de toekomst te schetsen. De toekomstdriehoek is een instrument om het verleden, heden en de toekomst in kaart te brengen en zo het meest plausibele toekomstscenario tussen die drie assen te verkennen. Laten we beginnen bij het heden. Welke grote of kleine ontwikkelingen zien jullie in de interactie tussen de wetenschap en de maatschappij, die deze beweging teweeg brengt?
+
+Frank Kupper: Hilde noemde net al open science. Ik denk dat dat een heel belangrijke is, want dat is een transitie op weg naar een wetenschap die veel meer in open verbinding staat met de maatschappij. Eigenlijk is dat een verandering in de relatie tussen wetenschap en samenleving, die je al veel langer ziet de afgelopen decennia. Open science is één manier om het daarover te hebben, maar je zou het ook de democratisering van kennis kunnen noemen. Er zijn in de loop der tijd heel veel benamingen geweest om daarnaar te verwijzen.
+
+Frank Kupper: Waar het op neerkomt, is dat de universiteit en andere kennisinstellingen zich steeds meer open zijn gaan stellen voor verschillende invloeden en perspectieven van buiten en dat steeds meer gelegenheid is geboden aan maatschappelijke stakeholders - burgers, bedrijven - om te participeren in het onderzoeksproces en de productie van kennis, en ook steeds eerder in het proces. Ik vergelijk het wel eens met een rits die steeds verder opengaat. Het begin van open science was open access, het delen van de artikelen en publicaties aan het einde van het onderzoeksproces. Je ziet nu dat het onderzoeksproces steeds verder open gericht wordt naar het delen van data, methodes en agenda's. Zo komen er steeds meer openingen voor mensen of groepen van buiten om zich daarmee te bemoeien en terug te praten.
+
+Frank Kupper: Dat is een ontwikkeling die sowieso gaande is, niet alleen in de wetenschap, maar ook in andere domeinen van de samenleving. Ik denk dat we tegelijkertijd nog erg aan het uitvinden zijn hoe we dat op een betekenisvolle manier kunnen doen.
+
+Maurice Vanderfeesten: Waar komt die ontwikkeling precies vandaan? Is dat omdat de maatschappij steeds meer wantrouwen heeft tegenover de wetenschap of is dat een andere beweging die gaande is?
+
+Frank Kupper: Ik denk zelf dat openheid een goed medicijn is tegen wantrouwen. De roep om openheid vindt, denk ik, meer zijn oorsprong in de mondige en kritische burger. Mensen weten steeds beter waar het over gaat en wat ze willen, en ze weten zich steeds beter uit te drukken. Ze kijken kritisch naar wetenschap en vragen om argumenten of bewijs. Ik denk dat dat een belangrijke is. Door werk in de wetenschapsfilosofie of sociologie hebben we ook beter begrip gekregen van hoe wetenschap werkt. Wetenschap is niet zozeer het blootleggen van een absolute waarheid, maar meer het produceren van kennis die we goed kunnen gebruiken om bepaalde problemen op te lossen. Een eeuw wetenschapsfilosofie in één zin.
+
+Frank Kupper: Het betekent dat wetenschap mensenwerk is, een sociaal proces, net als alle andere. Het gaat erom hoe we kijken naar dingen. Wat vinden we belangrijk? Welke vragen stellen we wel en niet? Zodra je onderkent dat dat een aspect is van wetenschap, kom je meteen ook bij de vraag wie bepaalt welke vragen we stellen en welke niet. Dat zie je vervolgens terug in de maatschappelijke sturing van onderzoek. Als samenleving zeggen we dat we die en die dingen - klimaat, kanker, armoede - belangrijke thema's vinden, dus we willen dat onderzoek vooral daarover gaat. Daarmee bepaal je tegelijkertijd dat het niet over andere dingen gaat.
+
+Maurice Vanderfeesten: Hoe voorkom je dat de wetenschap uiteindelijk door de maatschappij gezien wordt als nóg een mening die er gevormd wordt?
+
+Frank Kupper: Door de methode, denk ik. Wetenschap is óók een opvatting van de werkelijkheid, maar wel een die tot stand is gekomen door een heleboel werk van heel veel mensen die in dat proces steeds met elkaar hebben gedeeld, getoetst en overlegd. Het resultaat is robuuste kennis die niet objectief of absoluut is, maar wel stevig. Je zou kunnen zeggen dat dialoog een manier is om juist in complexe of controversiële vraagstukken die kennis robuust te maken.
+
+David Oldenhof: Hilde, Frank noemt het een sociaal proces. Bibliotheken spelen daar een rol in. Welke rol zie jij de openbare en universiteitsbibliotheken op dit moment pakken, wat betreft de thema's die Frank beschrijft?
+
+Hilde van Wijgaarden: Zoals ik net al zei: ze zijn zoekende. Ik vind de metafoor van een rits die steeds verder opengaat - waarmee je het onderzoeksproces als langdurig proces open probeert te maken om zo mensen in die stappen van wetenschap mee te nemen - een heel mooi voorbeeld voor wat de bibliotheek aan het doen is, door het wetenschapsproces vanaf de eerste ideeënvorming al meer te ondersteunen met informatie en te kijken hoe de bibliotheek kan helpen om dat proces vorm te geven.
+
+Hilde van Wijgaarden: Het is vooral de informatie die je daarvoor nodig hebt. Er is natuurlijk een heel groot verschil in waar mensen nu beschikking over hebben in vergelijking tot vroeger. Vroeger was er niet zoveel informatie. Tegenwoordig is er een overload aan informatie op het internet. Dat zie ik als een heel belangrijke ontwikkeling, ook voor bibliotheken. Zij pakken een rol in het helpen bij het kwalificeren van informatie en uit te zoeken wat er achter bepaalde websites zit die je leest - met welk doel is iets geschreven of gepubliceerd? - zodat mensen leren niet zomaar alles te geloven, maar te kijken waarom iets geschreven is en of het waar is of niet.
+
+Hilde van Wijgaarden: Dat betekent een rol voor bibliotheken, om samen met de wetenschappers te bekijken hoe je mensen meer kan betrekken bij wat de wetenschap is. Aan de ene kant wil je duidelijk maken dat wetenschap echt iets anders is dan zomaar een mening. Tegelijkertijd wil je dat wetenschap niet in die ivoren toren blijft hangen, maar daar juist uit komt en met mensen samen gaat kijken hoe we samen kunnen onderzoeken om samen te leren en de wereld beter te maken. Van dat proces is die bibliotheek onderdeel. De bibliotheek kan heel sterk verbinding leggen en kijken hoe we mensen kunnen leren om informatie op een goeie manier te gebruiken. De bibliotheek kan ook kijken naar wetenschappers: wat kunnen we doen voor de wetenschap om de informatie die daaruit voortkomt op een begrijpelijke manier breder te delen?
+
+## Aantrekking van de Toekomst - Toekomst Driehoek
+
+Maurice Vanderfeesten: Hoe ziet het ideale plaatje eruit als je kijkt naar de toekomst? Ik hoor je zeggen dat jullie aan de ene kant de wetenschappers bedienen met discovery, maar dat het ook belangrijk is dat het algemene publiek zich beter kan bedienen van die discovery en wetenschappelijke kennis. Aan de andere willen jullie een soort expertisecentrum worden, waarbij jullie kennis delen met wetenschappers over hoe de burger beter bij onderzoek betrokken kan worden: niet alleen aan het einde het resultaat laten zien - waar misschien meer wantrouwen vandaan komt - maar juist vanaf het begin de burgers in het proces betrekken en het samen doen, zodat ze eigenaar zijn van het wetenschappelijke en sociale proces dat wetenschap moet worden.
+
+Hilde van Wijgaarden: Als je het zo samenvat, is het heel veel. En dat klopt, het is ook heel veel. Ik denk dat we als bibliotheek nog heel duidelijk moeten kijken naar waar we goed in zijn. We hoeven niet het hele proces te vernieuwen als bibliotheek alleen. We moeten juist kijken naar waar we de wetenschap kunnen helpen en hoe we toegang kunnen geven aan mensen die geïnteresseerd zijn om daaraan mee te werken. Er liggen heel grote uitdagingen op dit moment. Ik noemde net al even het begrijpelijk naar mensen brengen van wetenschap. We weten echt nog niet hoe we dat moeten doen. Dat kan een bibliotheek ook niet, dat moeten we samen doen. Daarom vind ik die dialoog daar een interessante nieuwe ontwikkeling in, om te kijken in hoeverre je daar mensen wat meer met elkaar kunt koppelen en samen laten leren. Daar zullen we zo vast nog meer over praten als we het over de toekomst gaan hebben.
+
+Hilde van Wijgaarden: Wat ik van de huidige situatie nog wil benoemen, is het probleem dat we hebben met de toegankelijkheid van wetenschappelijke informatie. Dat is echt een heel groot probleem. Wetenschappelijke publicaties worden nog niet open gedeeld voor iedereen. Dan kan je heel leuk zeggen dat je wilt dat iedereen gebruik kan maken van de output van wetenschap, maar een groot deel van de mensen heeft geen toegang. Daar moeten we sowieso wat aan doen, maar daar zijn we heel hard mee bezig.
+
+Frank Kupper: Daaraan toevoegend: wat is betekenisvolle openheid? Je kunt publicaties en wetenschappelijk tijdschriften beschikbaar stellen, maar die zijn niet te lezen. Die zijn ook niet gemaakt om te lezen, maar meer als naslagwerk. Er mist een soort vertaling die mensen helpt om te weten hoe ze daarmee om moeten gaan en hoe ze betekenis moeten geven aan die informatie.
+
+Maurice Vanderfeesten: Wie zou daar verantwoordelijk voor kunnen zijn binnen het universiteitsbestel? Zie je daar een specifieke - kleine of grote - rol voor de bibliotheek?
+
+Frank Kupper: Ik denk dat de bibliotheek zich daar goed voor leent, maar dat zou deels een nieuwe rol moeten zijn. We komen wat meer op het terrein van wetenschapscommunicatie. Je ziet dat de universiteiten in de loop der jaren steeds minder toegewijde wetenschapscommunicatiespecialisten hebben. Dat zou eerst moeten veranderen.
+
+Hilde van Wijgaarden: Je zegt steeds minder, maar ik dat het er juist steeds meer zijn, omdat er steeds meer aandacht is voor dat onderwerp.
+
+Frank Kupper: Ja, maar als je kijkt naar hoeveel mensen echt de ruimte en de capaciteit hebben om zich toe te leggen op de interactie tussen wetenschappelijke informatie en diverse publieken, dan zijn dat er volgens mij te weinig.
+
+David Oldenhof: Is het niet ook een rol voor wetenschappers zelf, als onderdeel van hun takenpakket, om hun wetenschap aantrekkelijk te brengen voor het publiek?
+
+Frank Kupper: Absoluut. Ik denk zeker dat dat een kerntaak is van wetenschappers zelf, al kunnen ook die dat niet alleen. Ik denk dat het heel belangrijk is om je actief te verhouden tot wat er in de maatschappij speelt en tot de verschillende perspectieven die daar zijn. Dat gaat beide kanten op. Aan de ene kant betekent het transparant zijn over waar je mee bezig bent en daar verantwoording voor afleggen als publieke instantie. Tegelijkertijd is het ook waardevolle input voor je onderzoek en zet het je aan het denken. Zo kom je op nieuwe vragen of interpretaties die je zelf minder gauw voor mogelijk houdt. Ik denk dat het heel erg verfrissend en waardevol is voor het onderzoek zelf om zich te laten inspireren door wat er allemaal buiten de universiteit plaatsvindt.
+
+David Oldenhof: Op dat vlak ben jij bezig met het netwerk voor wetenschap en dialoog. Wat is het lonkende perspectief voor de universiteit als dit netwerk in 2030 een groot succes is?
+
+Frank Kupper: Dit netwerk heeft zich ten doel gesteld om de dialoog rondom onderzoekspraktijken op de universiteit te bevorderen. Dat betekent dat we zoeken naar een bredere reflectie op wat er in die onderzoekspraktijken gebeurt in de relatie met de maatschappij. Ook zoeken we naar afstemming tussen het onderzoek en bepaalde waarden of behoeften in de samenleving. Ten derde willen we leren hoe je als onderzoeker kan navigeren in die maatschappelijke complexiteit waarbinnen je onderzoek valt. Dat zijn de drie doelen van dat netwerk.
+
+Frank Kupper: Ik denk dat het lonkende perspectief voor 2030 is dat het een levend en vibrerend onderdeel van onderzoekspraktijken is geworden, en dat het normaal en vanzelfsprekend is om je als onderzoeker af en toe af te vragen: waar gaat wat ik hier aan het doen ben eigenlijk over? Hoe zit het met andere manieren van denken of kijken hiernaar? Waarvoor doe ik dit eigenlijk? Met wie doe ik dit eigenlijk? Wat we nastreven, is dat het normaal wordt om die vragen aan het begin van je onderzoek al te stellen en in de praktijk te brengen. Dat vereist dat onderzoekers dat kunnen en willen doen, maar ook dat ze daar ruimte voor hebben en het gewaardeerd en beloond wordt en dat de universiteit het gaat zien als iets dat hoort bij onderzoeker zijn.
+
+David Oldenhof: Het onderzoeksproces wordt verbreed. Meer stemmen willen meedoen in die dialoog, zei Frank net. Zijn er mogelijke gevaren als meer stemmen die dialoog maken? De universiteit - een negentiende-eeuwse uitvinding in de huidige vorm - is heel lang bezig geweest om dat te ritualiseren, codificeren en onderling te houden onder wetenschappers en de maatschappij buiten te houden. Nu maken we de tegenovergestelde beweging. Zitten daar ook risico's aan?
+
+Hilde van Wijgaarden: Dat je antwoord krijgt, bijvoorbeeld als je iets naar buiten brengt? Nee, ik zou dat niet als risico willen zien, want ik vind die transparantie en het naar buiten brengen met openheid juist essentieel. Niet alleen je eigen ding te willen laten horen, maar ook luisteren naar de reactie. Wetenschap gaat toch om de reactie en de tegenreactie? Zo leren we van elkaar. Dat lijkt me helemaal goed. Het enige wat belangrijk is, is het waarderen en kunnen herkennen van goede informatie, om je weg te vinden in die overload van verschillende verhalen die je hoort. Als mensen niet bereid zijn daar open in te staan en te leren van wat je van een ander hoort, gaat het niet werken. Je moet van weerszijden daarin open staan.
+
+Hilde van Wijgaarden: Het is heel spannend, dat zie ik ook wel. Natuurlijk. Van je ivoren toren komen neerdalen en ineens met je voeten in de modder staan is hartstikke spannend. Maar dat is juist ook goed, want dan kun je gaan leren van die andere perspectieven. Dat vind ik mooi aan wat Frank zegt: je kunt op veel verschillende manieren naar wetenschappelijke uitkomsten kijken. Dat maakt het alleen maar waardevoller om je eigen onderzoek ter discussie te stellen en vooruit te brengen. Nou reageer ik vooral vanuit mijn persoonlijke drive.
+
+Hilde van Wijgaarden: Als ik kijk naar de rol van de bibliotheek daarin, is er een extra uitdaging als het gaat om het bewaren van informatie. Wij bewaren meestal eindproducten: een publicatie of de data die op een bepaald moment uit dat onderzoek komen. Wat bewaar je van de dialoog? Dat lijkt me een heel mooie om over na te denken. Daar verheug ik me op in de samenwerking. Dat is één kant van het verhaal. De andere kant is dat de bibliotheek een rol kan pakken in het ondersteunen van onderzoekers en toekomstig onderzoekers - onze studenten - om hen deze vaardigheid aan te leren.
+
+Hilde van Wijgaarden: Een van de nieuwe rollen die de bibliotheek steeds meer op zich heeft genomen, is het ondersteunen bij informatievaardigheden en bij researchdatamanagement. Hoe ga je om met informatie? Hoe voer je dat wetenschappelijk proces uit? De dialoog zou daar een vast onderdeel van moeten worden. Een van de dingen waar wij als bibliotheek bij kunnen helpen, is het aanleren. Ook is het een praktische rol, vanuit het idee dat de bibliotheek faculteitsoverstijgend is. Wij zijn niet van één faculteit, wij zijn voor alle faculteiten. We kunnen helpen bij het aanleren van bepaalde onderzoeksvaardigheden - waar dit bij zal gaan horen - aan alle beginnend onderzoekers of senior onderzoekers die dit nog moeten leren.
+
+Frank Kupper: Absoluut.
+
+Maurice Vanderfeesten: Daar komt toch het kenniscentrum weer terug.
+
+Frank Kupper: Mag ik daar iets bij aanvullen? Ik hoor jou een aantal keren praten over informatie - een kernbegrip in de bibliotheek - en informatievaardigheden. Ik denk dat de verandering waar wij het over hebben een aantal andere dingen in de spotlights zet dan alleen informatie. Dat zijn ontmoetingen en interacties tussen mensen en de rol daarvan in het delen en ontwikkelen van kennis. Daar heb je naast die informatievaardigheden - Wat is kennis? Hoe herken ik betrouwbare kennis? - ook sociale of dialoogvaardigheden voor nodig. Hoe ga ik om met mijn kennis in relatie tot de kennis van anderen? Hoe ga ik om met mijn perspectief in relatie tot het perspectief van die anderen? Dat is een verbreding waar naar mijn idee de bibliotheek een heel belangrijke intermediërende rol te vervullen heeft, van het faciliteren van dat interactieve proces.
+
+Maurice Vanderfeesten: Jij zegt dat er een omslag nodig is in manieren van denken over wat er bij de bibliotheek nodig is om dit te gaan realiseren. Niet alleen de presentatie van informatie naar anderen toe brengen, maar ook de skillsets van het brengen van dialoog. Het gaat niet alleen statisch om de informatie; dialoog gaat twee kanten op. Daarvoor moet een plek komen bij de bibliotheek.
+
+Frank Kupper: Er moet niet alleen een plek voor zijn, maar ook een proces dat moet worden begeleid. De vraag spannende vraag is dan hoever je daarin wilt en kunt gaan als bibliotheek en wat dat voor je betekent. Betekent het bijvoorbeeld dat je zelf actief die dialoog gaat opzoeken, mensen bij elkaar gaat brengen en misschien gemeenschappen van buiten de bibliotheek in contact gaat brengen met wetenschappers? Ik vind het zelf spannend om daarmee te gaan experimenteren.
+
+Hilde van Wijgaarden: Ik denk ook dat we dat samen uit moeten gaan zoeken. We gaan nu hiermee beginnen en ik vind het niet evident dat dit altijd bij de bibliotheek zou passen. De bibliotheek verandert sowieso, maar het aanleren van vaardigheden is niet per definitie een taak van de bibliotheek. Het is wel zo dat onze positie en de manier waarop we ons verhouden tot alle onderzoekers aan de universiteit, de bibliotheek een goede plek maakt daarvoor. Dat is een rol die de bibliotheek kan pakken. Of dat alleen nu in de experimenteerfase zo is of ook in de toekomst zo zal blijven, weet ik niet. Ik denk dat als het eenmaal op gang is, we weer wat meer naar onze traditionele rol terug kunnen, of vooruit.
+
+Maurice Vanderfeesten: De vraag is of er bestaande organisationele structuren zijn - bijvoorbeeld Communicatie & Marketing - waarvan je zegt dat daar de rol bij moet liggen. Wat zijn de dingen die die verandering tegenhouden om die stap voorwaarts te maken?
+
+Hilde van Wijgaarden: Ze houden het niet tegen, maar we moeten samen kijken wat de beste plek is. Communicatie & Marketing is voor onze wetenschapscommunicatie de plek om dat naar buiten te brengen, want zij hebben verstand van de manier waarop je iets naar een breder publiek communiceert. Frank heeft me echter een keer uitgelegd dat dat niet is waar het hier om gaat. De wetenschapsdialoog is wat anders dan iets alleen naar buiten brengen. De bibliotheek brengt dingen naar buiten, maar met meer omschrijving erbij, over vindbaarheid op langere termijn en het koppelen.
+
+Maurice Vanderfeesten: Statische informatie.
+
+Hilde van Wijgaarden: Niet statisch informatie, maar de brede voorraad aan kennis die we opgedaan hebben. Communicatie & Marketing pakt daar soms wat leuke dingetjes uit. Wij zijn er voor alles wat eruit gekomen is en wij zorgen ervoor dat het niet alleen vandaag beschikbaar is, maar ook in de toekomst beschikbaar blijft. Voor de uitdrukking scholarly communication is geen Nederlandse vertaling, maar dat vind ik een mooi woord als het gaat om alle wetenschapsuitwisseling die er plaatsvindt en de weerslag daarvan. Dat is van oudsher altijd de verantwoordelijkheid van de bibliotheek geweest. Het kan best zijn dat we in deze fase samen gaan kijken hoe je dit vormgeeft en welke rol de bibliotheek daarin kan vervullen, en dat in een volgende fase - als dit een normaler onderdeel van de wetenschappelijke praktijk is geworden - door iedere wetenschapper gedaan wordt of bij de faculteiten of andere afdelingen terechtkomt.
+
+## Last uit het Verleden - Toekomst Driehoek
+
+David Oldenhof: Je refereert aan het verleden. Ik vroeg me af welke manieren van denken over bibliotheken je om je heen ziet, bijvoorbeeld op de universiteit of in de maatschappij, die de bibliotheek kunnen belemmeren om die rol te pakken.
+
+Hilde van Wijgaarden: Wat je altijd nog hebt: met alle nieuwe rollen die de bibliotheek pakt, blijven allerlei mensen er verbaasd over. Ik moet nog steeds vaak uitleggen dat de bibliotheek meer doet dan boeken uitlenen. Soms word ik daar een beetje moe van. Aan de andere kant denk ik: er zit ook wat goeds in dat dat nog steeds de associatie is die mensen hebben met de bibliotheek. De bibliotheek straalt iets heel fijns en wetenschappelijks uit. Het is een vertrouwde en veilige omgeving waarin wetenschap beoefend kan worden. Dat is de uitstraling van de bibliotheek. Laten we die vooral koesteren, net als de uitstraling van boeken daarin, want dat houdt in dat het ook een plek kan zijn waar de wetenschappelijke dialoog plaats kan vinden.
+
+Hilde van Wijgaarden: Ook al zijn wij inmiddels mega-hip, AI, digitaal, data driven en wat niet meer bezig, dat maakt niet uit. Als we ook nog steeds de fijne, vertrouwde en veilige plek zijn, dan kunnen we daarop voortbouwen om daar in de toekomst wat in te betekenen. De bibliotheek waar alles samenkomt. Dat mag ook.
+
+David Oldenhof: Heb jij daar nog een aanvulling op, Frank?
+
+Frank Kupper: Ik vind het mooi om dat te behouden, de plek waar dingen samenkomen. Jij beschreef net zo mooi de universiteit als negentiende-eeuwse uitvinding. Het was toen ook een veilige plek waar mensen konden samenkomen om lang en diep na te denken of onderzoek te doen naar bepaalde dingen. We hadden het eerder over die rits. Als je dat onderzoeksproces openritst, is de consequentie dat er veel meer en meer verschillende mensen zijn die mee willen doen aan dat proces. Dat betekent onherroepelijk dat de manieren van verbinding, contact en interactie talrijker en diverser worden en dat je daar plekken voor nodig hebt. Ik denk dat het onvermijdelijk is dat de bibliotheek van de toekomst die uitwisseling en dialoog doet, die zo fundamenteel is om kennisontwikkeling een vorm te geven. Als dat kan door die verstilde plek te bieden waar mensen even alles kunnen loslaten en kunnen samenkomen, zou dat heel mooi zijn.
+
+## Conclusie
+
+David Oldenhof: Dat lijkt me een heel mooie om mee af te sluiten. We hebben het gehad over de rol van de bibliotheek in de universiteit wat betreft dialoog, wetenschapscommunicatie en brug in het contact met de maatschappij, en over wetenschap als een sociaal proces, waar steeds meer perspectieven en mensen aan mee willen doen. De openheid zal toenemen. Daarin speelt dialoog en het kunnen omgaan met verschillende perspectieven een heel belangrijke rol. Die plek kunnen we als bibliotheek oppakken, als ik het zo mag samenvatten, omdat we universiteitsbreed dicht bij wetenschappers betrokken zijn en het een heel fijne plek is om samen te komen. Een plek waar je de wetenschap in actie voelt en waar je misschien ook in dialoog kan gaan met stemmen uit het verleden.
+
+## Tips
+
+David Oldenhof: Ik wil jullie hartelijk danken voor dit inspirerende gesprek. Hebben jullie nog tips voor de luisteraars of dingen die ze moeten bekijken of lezen?
+
+Frank Kupper: Of bezoeken.
+
+David Oldenhof: Heb jij nog theatertips? Je mag reclame maken voor je eigen theatershows. .
+
+Frank Kupper: Theater, daar overval je me een beetje mee. Ik heb 1001 tips, van alles tegelijk. De algemene tip is: lees en neem af en toe de tijd om even na te denken.
+
+David Oldenhof: Mooi. Hilde?
+
+Hilde van Wijgaarden: Inderdaad, daar kan ik me bij aansluiten. Ik zat te denken aan de relatie tussen de openbare bibliotheek en de universiteitsbibliotheek. Die komt bij dit onderwerp langzaam om de hoek kijken. Dat vind ik heel erg leuk. Het leuke van die openbare bibliotheken is dat ze zichzelf echt opnieuw hebben uitgevonden. Mijn tip is: dit kan je allemaal zien bij je openbare bibliotheek. Die moet weer echt een centrale rol vervullen en daar kunnen wij als universiteitsbibliotheek bij aansluiten om te kijken hoe we met hen samen die connectie kunnen leggen. Hier in de stad is een mooie.
+
+Maurice Vanderfeesten: Mooi. Hartelijk dank voor je kennis en expertise. Dank jullie wel. Tot de volgende keer.
+
+David Oldenhof: Dank je wel.
+
+Hilde van Wijgaarden: Geen eindtune?
+
+Maurice Vanderfeesten: Die monteren we erin.
+
+David Oldenhof: Precies. Je hoort hem zo vallen. Ting ting.
