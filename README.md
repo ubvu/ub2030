@@ -8,7 +8,7 @@ Opdrachtgever: Joeri Both\
 Ogranisatie: [Universiteitsbibliotheek, Vrije Universiteit Amsterdam](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek)
 Datum: 2023-05-19
 
-[![DOI](https://zenodo.org/badge/679753673.svg)](https://zenodo.org/doi/10.5281/zenodo.10666049) 
+[![DOI](https://zenodo.org/badge/10666049.svg)](https://zenodo.org/doi/10.5281/zenodo.10666049) 
 
 [Project Page](https://ubvu.github.io/ub2030/) | [Listen on SoundCloud](https://soundcloud.com/vu-library-live/sets/ub2030-the-future-of-research-libraries) | [Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:527805591/sounds.rss) | [Listener Feedback](https://forms.office.com/e/KX08BEenpu)
 
@@ -31,21 +31,22 @@ Voor afdeling Research Support worden deze ideeën verder uitgewerkt tot pilotvo
 De interviews zijn per afdeling gepland, onderverdeeld in de onderwerpen van de ambities in het meerjarenplan. 
 
 
-## Afleveringen
+## Opnames
 
 - [**Opname 01 -- Introductie**](./ub2030-01-introductie/)
-- [**Opname 02 -- Toekomst van Research Data Management en Research Software Management**](./ub2030-02-rdm/)
-- [**Opname 03 -- Toekomst van Research Intelligence**](./ub2030-03-research_intelligence/)
-- [**Opname 04 -- Toekomst van Open Science**](./ub2030-04-open_science/)
-- [**Opname 05 -- Toekomst van Research Support**](./ub2030-05-research_support/)
-- [**Opname 06 -- Toekomst van Digital Services and Infrastructures**](./ub2030-06-digital_services_and_infrastructures/)
-- [**Opname 07 -- Toekomst van Education Support**](./ub2030-07-education_support/)
-- [**Opname 08 -- Toekomst van Special Collections**](./ub2030-08-special_collections/)
+- [**Opname 02 -- Toekomst van Research Data Management en Research Software Management | met Marcel Ras, Meron Vermaas and Tim Pinchetti**](./ub2030-02-rdm/)
+- [**Opname 03 -- Toekomst van Research Intelligence met | Matthijs de Zwaan and Rik Iping (Erasmus Medical Center)**](./ub2030-03-research_intelligence/)
+- [**Opname 04 -- Toekomst van Open Science | met Sander Bosch and Ludo Waltman (CWTS / Leiden University)**](./ub2030-04-open_science/)
+- [**Opname 05 -- Toekomst van Research Support met Joeri Both and Aaron Tay (Singapore Management University)
+**](./ub2030-05-research_support/)
+- [**Opname 06 -- Toekomst van Digital Services and Infrastructures | met Alexey Pristupa and Alastair Dunning (Delft University of Technology)**](./ub2030-06-digital_services_and_infrastructures/)
+- [**Opname 07 -- Toekomst van Education Support met Cees van Gent and Rens van der Vorst (Fontys University of Applied Sciences)**](./ub2030-07-education_support/)
+- [**Opname 08 -- Toekomst van Special Collections | met Michiel Cock and August den Hollander (Vrije Universiteit Amsterdam)**](./ub2030-08-special_collections/)
 - [**Opname 09 -- Toekomst van Information Services (niet publiek)**](./ub2030-09-information_services/)
-- [**Opname 10 -- Toekomst van Library Desk Services**](./ub2030-10-library_desk_services/)
+- [**Opname 10 -- Toekomst van Library Desk Services | met Jan-Maarten Pauw and Aat Vos (Includi Architects)**](./ub2030-10-library_desk_services/)
 - [**Opname 11 -- Toekomst van Aquisition and Metadata (geannuleerd)**](./ub2030-11-aquisition_and_metadata/)
-- [**Opname 12 -- Toekomst van Bibliotheek in de Maatschappij**](./ub2030-12-society/)
-- [**Opname 13 -- BONUS DeSci: Toekomst van Open Science Ecosystems**](./ub2030-bonus-01-desci/)
+- [**Opname 12 -- Toekomst van Bibliotheek in de Maatschappij | met Hilde van Wijngaarden and Frank Kupper (Athena Institute)**](./ub2030-12-society/)
+- [**Opname 13 -- BONUS DeSci: Toekomst van Open Science Ecosystems | Philipp Koelinger (DeSci Foundation)**](./ub2030-bonus-01-desci/)
 
 # Voorlopige resultaten: Overzicht van Gedeelde Doelen en Overlappende Perspectieven
 
