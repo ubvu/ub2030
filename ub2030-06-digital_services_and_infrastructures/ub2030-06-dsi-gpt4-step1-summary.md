@@ -1,6 +1,4 @@
-# Aflevering 06 - Toekomst van Digital Library Services and Infrastructures (in English)
-
-**Samenvatting van Aflevering 06 - Toekomst van Digital Library Services and Infrastructures:**
+# UB2030 | Toekomst van Digital Library Services and Infrastructures (in English) | GPT Samenvatting
 
 ## Management Samenvatting
 
