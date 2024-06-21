@@ -34,19 +34,19 @@ De interviews zijn per afdeling gepland, onderverdeeld in de onderwerpen van de 
 ## Opnames
 
 - [**Opname 01 -- Introductie**](./ub2030-01-introductie/)
-- [**Opname 02 -- Toekomst van Research Data Management en Research Software Management | met Marcel Ras, Meron Vermaas and Tim Pinchetti**](./ub2030-02-rdm/)
-- [**Opname 03 -- Toekomst van Research Intelligence met | Matthijs de Zwaan and Rik Iping (Erasmus Medical Center)**](./ub2030-03-research_intelligence/)
-- [**Opname 04 -- Toekomst van Open Science | met Sander Bosch and Ludo Waltman (CWTS / Leiden University)**](./ub2030-04-open_science/)
+- [**Opname 02 -- Toekomst van Research Data Management en Research Software Management ; met Marcel Ras, Meron Vermaas and Tim Pinchetti**](./ub2030-02-rdm/)
+- [**Opname 03 -- Toekomst van Research Intelligence met ; Matthijs de Zwaan and Rik Iping (Erasmus Medical Center)**](./ub2030-03-research_intelligence/)
+- [**Opname 04 -- Toekomst van Open Science ; met Sander Bosch and Ludo Waltman (CWTS / Leiden University)**](./ub2030-04-open_science/)
 - [**Opname 05 -- Toekomst van Research Support met Joeri Both and Aaron Tay (Singapore Management University)
 **](./ub2030-05-research_support/)
-- [**Opname 06 -- Toekomst van Digital Services and Infrastructures | met Alexey Pristupa and Alastair Dunning (Delft University of Technology)**](./ub2030-06-digital_services_and_infrastructures/)
+- [**Opname 06 -- Toekomst van Digital Services and Infrastructures ; met Alexey Pristupa and Alastair Dunning (Delft University of Technology)**](./ub2030-06-digital_services_and_infrastructures/)
 - [**Opname 07 -- Toekomst van Education Support met Cees van Gent and Rens van der Vorst (Fontys University of Applied Sciences)**](./ub2030-07-education_support/)
-- [**Opname 08 -- Toekomst van Special Collections | met Michiel Cock and August den Hollander (Vrije Universiteit Amsterdam)**](./ub2030-08-special_collections/)
+- [**Opname 08 -- Toekomst van Special Collections ; met Michiel Cock and August den Hollander (Vrije Universiteit Amsterdam)**](./ub2030-08-special_collections/)
 - [**Opname 09 -- Toekomst van Information Services (niet publiek)**](./ub2030-09-information_services/)
-- [**Opname 10 -- Toekomst van Library Desk Services | met Jan-Maarten Pauw and Aat Vos (Includi Architects)**](./ub2030-10-library_desk_services/)
+- [**Opname 10 -- Toekomst van Library Desk Services ; met Jan-Maarten Pauw and Aat Vos (Includi Architects)**](./ub2030-10-library_desk_services/)
 - [**Opname 11 -- Toekomst van Aquisition and Metadata (geannuleerd)**](./ub2030-11-aquisition_and_metadata/)
-- [**Opname 12 -- Toekomst van Bibliotheek in de Maatschappij | met Hilde van Wijngaarden and Frank Kupper (Athena Institute)**](./ub2030-12-society/)
-- [**Opname 13 -- BONUS DeSci: Toekomst van Open Science Ecosystems | Philipp Koelinger (DeSci Foundation)**](./ub2030-bonus-01-desci/)
+- [**Opname 12 -- Toekomst van Bibliotheek in de Maatschappij ; met Hilde van Wijngaarden and Frank Kupper (Athena Institute)**](./ub2030-12-society/)
+- [**Opname 13 -- BONUS DeSci: Toekomst van Open Science Ecosystems ; Philipp Koelinger (DeSci Foundation)**](./ub2030-bonus-01-desci/)
 
 # Voorlopige resultaten: Overzicht van Gedeelde Doelen en Overlappende Perspectieven
 
