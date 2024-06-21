@@ -1,8 +1,6 @@
+# UB2030 | Toekomst van Research Intelligence | GPT Samenvatting
 
-
-# Aflevering 03 -- Toekomst van Research Intelligence
-
-# Management Samenvatting: Toekomst van Research Intelligence
+# Management Samenvatting
 
 ## Overzicht
 De derde aflevering van de UB2030 podcast, "Toekomst van Research Intelligence", biedt een diepgaand inzicht in de evolutie, huidige trends en toekomstige mogelijkheden van research intelligence binnen universiteitsbibliotheken. Gastheren Maurice Vanderfeesten en David Oldenhof, samen met experts Matthijs de Zwaan en Rik Iping, verkennen kritische aspecten, waaronder definities, toekomstige visies, huidige druk, en het gewicht van het verleden.
