@@ -154,7 +154,7 @@ So we have the storage redundancy in a protocol that cannot be shut off or put b
 
 For example, a data set or a code file. And you can even go further and you can actually address a particular part of the data set or a particular part of the code or a particular sentence in the paper. And there's basically two different formats for that. There is a long format. Which has the entire cryptographic gra hash of the root Node, of the research object.
 
-No, that's great. For machines. They love that. But for humans, that's not very not very human friendly. So there's also a short version which is actually human readable, and human meaningful meaningful and. This is actually a really interesting thing because this is a solution to an alt problem in computer science that is called Zuko Triangle.
+No, that's great. For machines. They love that. But for humans, that's not very not very human friendly. So there's also a short version which is actually human readable, and human meaningful meaningful and. This is actually a really interesting thing because this is a solution to an alt problem in computer science that is called Zookos Triangle.
 
 So Zuko wrote a paper in 2001 where he basically defined three desirable properties of a persistent identifier. And he said the ideal persistent identifier should be human friendly, meaning it should a chat have meaning and be memorable. Low entropy names. It should be secure in the sense that the amount of damage that a malicious entity can inflict on the system should be as low as possible.
 
