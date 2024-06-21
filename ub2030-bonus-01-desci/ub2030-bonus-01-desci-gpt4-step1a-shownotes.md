@@ -15,7 +15,91 @@ Bij Description, maak een uitgebreide beschrijving. Gebruik html links in de tip
 -------------------------------
 
 Input: Samenvatting:
-...
+# UB2030 | Toekomst van Decentralized Science | GPT4 Samenvatting
+
+## Management Samenvatting
+
+- **Gast**: Professor Philipp Koelinger, econoom aan de Vrije Universiteit Amsterdam en oprichter van DeSci Labs en DeSci Foundation.
+- **Onderwerp**: Decentralised Science (De-Sci) en de transformatie naar een open wetenschap ecosysteem voor FAIR (Findable, Accessible, Interoperable, Reusable) onderzoek.
+- **Doel**: Transparant en repliceerbaar onderzoek mogelijk maken en beloningen bieden voor Open Science praktijken.
+
+### Science is facing a Crisis
+
+- **Uitdagingen**: Diepgewortelde problemen in wetenschappelijke publicatie en infrastructuur, zoals verouderde publicatietechnologie en beperkte toegankelijkheid van data.
+- **Economische impact**: Hoge kosten door inefficiënties en niet-FAIR data, wat wetenschappelijke vooruitgang belemmert.
+
+### Towards a Research Record of Versions
+
+- **Huidige beperkingen**: Statische PDF's en minimale metadata zonder adequate infrastructuur voor data en code.
+- **Oplossing**: Digitale onderzoeksobjecten die FAIR zijn, interactief en dynamisch, ondersteund door een open source infrastructuur.
+
+### The interactive scientific paper of the future
+
+- **Innovatie**: Interactieve wetenschappelijke papers die kernresultaten koppelen aan onderliggende data en code, en updates en bijdragen van derden mogelijk maken.
+
+### DOI's are not persistent identifiers
+
+- **Problemen met DOI's**: Onbetrouwbare resolutie (terug halen van het artikel aan de hand van een identifier) en inefficiënties in handmatige updates, wat hun rol als persistente identifiers ondermijnt.
+
+### Content addressing based on hashes
+
+- **Oplossing**: Gebruik van cryptografische hashes voor betrouwbare en unieke identificatie van content, wat problemen met linkrot en inhoudsverplaatsing oplost.
+
+### DeSci Nodes
+
+- **Publicatieprotocol**: Voor rijke digitale onderzoeksobjecten met permanente identifiers, gedistribueerd via een peer-to-peer infrastructuur en bijgehouden op een blockchain.
+- **Voordelen**: Dynamische en interoperabele onderzoeksobjecten met versiecontrole en persistente identifiers.
+
+### Provenance
+
+- **Blockchain**: Updates worden vastgelegd in een openbaar grootboek, toegankelijk voor iedereen, wat de herkomst van onderzoeksobjecten traceerbaar maakt.
+
+### Distribution
+
+- **Redundante opslag**: Metadata wordt wereldwijd opgeslagen op verschillende servers, wat bescherming biedt tegen gegevensverlies en betaalmuren.
+
+### Decentralized Persistent Identifiers (dPID)
+
+- **Unieke adressen**: dPIDs bieden unieke en gedetailleerde verwijzingen naar onderzoeksobjecten en hun componenten.
+- **Mensvriendelijk**: dPIDs combineren gebruiksvriendelijkheid, veiligheid en decentralisatie.
+
+### Operations on research objects
+
+- **Nieuwe mogelijkheden**: Metadata resolutie, gedecentraliseerde compute, importeren van bronnen en toevoegen van attestaties met dPIDs.
+
+### Decentralized data storage
+
+- **IPFS-systeem**: Gegevens worden redundantly en kostenefficiënt opgeslagen, met mogelijkheden voor beveiligde opslag en lange termijn archivering.
+
+### FAIR-enabling metadata
+
+- **Automatische generatie**: Minimale FAIR-metadata wordt automatisch gegenereerd vanuit onderzoeksobjecten zonder extra inspanning van de onderzoeker.
+
+### Open-state repository for FAIR interoperable research objects
+
+- **Volledige stack**: Gescheiden data- en applicatielagen voor het beheren en delen van onderzoeksobjecten.
+
+### DEMO: DeSci Nodes
+
+- **Gebruiksvriendelijkheid**: Browserinterface biedt toegang tot artikelen, code, data en annotaties, met functies voor versiegeschiedenis en attestaties (badges).
+
+### Reporting: User Statistics on EtherScan
+
+- **Transparantie**: Publiek toegankelijke metadata en gebruikersstatistieken beschikbaar via EtherScan.
+
+### Open Source Software
+
+- **Toegankelijkheid**: Broncodes en componenten zijn openbaar beschikbaar op GitHub, ondersteund door een actieve ontwikkelaarsgemeenschap.
+
+### Gateways - Content Curation and Branding
+
+- **Contentcuratie en branding**: Belangrijk voor het beheer van wetenschappelijke publicaties, mogelijk gemaakt door gateways die content surfacen en beheren.
+
+### Brainstorm: FAIRpilot project with SURF
+
+- **Samenwerkingsvoorstel**: Testen van de nieuwe infrastructuur met SURF om data FAIR en open te maken, met mogelijkheden voor een eigen gateway door SURF.
+
+Deze samenvatting geeft een overzicht van de innovatieve benadering van DeSci Labs om wetenschap transparanter, toegankelijker en efficiënter te maken door gebruik van gedecentraliseerde technologieën.
 
 -------------------------------
 
