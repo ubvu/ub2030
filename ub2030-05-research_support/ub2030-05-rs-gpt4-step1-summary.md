@@ -1,4 +1,4 @@
-# Aflevering 05 - Toekomst van Research Support
+# UB2030 | Toekomst van Research Support | GPT Samenvatting
 
 ## Management Samenvatting
 
