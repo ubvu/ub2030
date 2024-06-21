@@ -4,12 +4,30 @@ Input: ub2030-07-es-transcript.md
 
 Output: ub2030-07-es-gpt4-step1-summary.md
 
-# Samenvatting : Toekomst van Education Support
+# UB2030 | Toekomst van Education Support | Samenvatting
 
-## Managementsamenvatting
+## Management Samenvatting
 
-Het interview richt zich op de essentiële thema's en inzichten die zijn besproken over de **toekomst van onderwijsondersteuning binnen universiteitsbibliotheken**. De discussie benadrukt de noodzaak van innovatie in het licht van technologische ontwikkelingen en veranderende onderwijslandschappen. Kernpunten zijn de rol van technologie in het onderwijs, de invloed van historische, huidige en toekomstige factoren op onderwijsondersteuning, en de essentie van onderwijs gericht op menselijke ontwikkeling en inspiratie. 
-Het debat onderstreept het belang van het **heroverwegen van educatieve waarden en methoden**, met een **focus op authenticiteit**, **persoonlijke ontwikkeling**, en het **ondersteunen van positieve menselijke eigenschappen door technologie**. Daarnaast wordt de cruciale rol van menselijke interactie binnen het onderwijsproces benadrukt, waarbij **technologie dient ter ondersteuning** en niet als primaire focus.
+In deze podcastaflevering bespreken Maurice Vanderfeesten en David Oldenhof de toekomst van onderwijsondersteuning met experts Cees van Gent en Rens van der Vorst. De centrale vraag draait om het ideale toekomstbeeld voor onderwijsondersteuning en de factoren die veranderingen teweegbrengen, vooral door technologische vooruitgang.
+
+### Gasten en Hun Rol
+- **Cees van Gent:** Expert in onderwijsondersteuning.
+- **Rens van der Vorst:** Technofilosoof, reflecteert op de impact van technologie op het leven en onderwijs.
+
+### Onderwerp
+Het gesprek richt zich op de toekomst van onderwijsondersteuning, met een nadruk op de impact van technologie, uitdagingen en kansen, en hoe deze bijdragen aan een beter onderwijssysteem.
+
+### Kernpunten in Toekomst Perspectieven
+- **Toekomstdriehoek als Instrument:** Maurice introduceert de toekomstdriehoek van Sohail Inayatullah om de interactie tussen verleden, heden en toekomst te analyseren. Dit model helpt bij het verkennen van waarschijnlijke toekomstscenario's.
+- **Druk van het Heden:** De impact van snelle technologische vooruitgang wordt vergeleken met historische technologische doorbraken. Ondanks grote investeringen in onderwijstechnologie, blijven kernindicatoren zoals studententevredenheid en studietempo achter. Er is behoefte aan een herdefinitie van studentenondersteuning in het licht van nieuwe technologieën.
+- **Aantrekkingskracht van de Toekomst:** Rens benadrukt het belang van leren boven certificeren en stelt een flexibeler, gepersonaliseerd onderwijs voor. Onderwijsinstellingen moeten zich richten op persoonlijke ontwikkeling en het bieden van fysieke ruimtes voor ontmoetingen en leren. Technologie moet positieve menselijke eigenschappen versterken.
+
+### Conclusies
+- **Gewicht van het Verleden:** Het huidige onderwijssysteem is vaak gericht op materiële winst, met vroege druk op jongeren om belangrijke keuzes te maken. Dit leidt tot een focus op controle in plaats van inspiratie in het onderwijs.
+- **Rol van Technologie:** Hoewel technologie zwaktes in het huidige systeem blootlegt, biedt het ook kansen voor authentiek leren en persoonlijke ontwikkeling. Technologieën die positieve gedragingen aanmoedigen moeten de voorkeur krijgen.
+- **Menselijke Interactie:** Het belang van menselijke interactie in het onderwijs wordt benadrukt. Er moet meer focus zijn op de relatie tussen studenten en docenten, in plaats van op technologie voor efficiëntie.
+
+Deze samenvatting belicht de belangrijkste discussiepunten over de toekomst van onderwijsondersteuning, de rol van technologie en onderwijsinstellingen, en de noodzakelijke culturele veranderingen voor een meer authentiek en persoonlijk gericht onderwijssysteem.
 
 
 ## Inleiding
