@@ -4,11 +4,11 @@ Input: ub2030-04-os-transcript.md
 
 Output: 
 
-# Samenvatting : UB2030 - 04 - Toekomst van Open Science
+# UB2030 | Toekomst van Open Science | Samenvatting
 
 ## Management Samenvatting
 
-In de UB2030-podcast verkennen **Maurice Vanderfeesten** en **David Oldenhof**, met gasten **Sander Bos** en **Ludo Waltman**, de toekomst van **open science** tegen 2030. Open science wordt breed geïnterpreteerd als het principe van openheid in **wetenschappelijk onderzoek**, waarbij niet alleen de resultaten, maar ook het proces en de participatie transparant zijn. De discussie maakt gebruik van de "**Toekomst Driehoek**" als raamwerk om de interacties tussen het verleden, heden, en toekomstige ambities te analyseren, gericht op het creëren van een meer **inclusieve**, **transparante** en **samenwerkende** wetenschappelijke praktijk.
+In de UB2030-podcast verkennen **Maurice Vanderfeesten** en **David Oldenhof**, met gasten **Sander Bosch** en **Ludo Waltman**, de toekomst van **open science** tegen 2030. Open science wordt breed geïnterpreteerd als het principe van openheid in **wetenschappelijk onderzoek**, waarbij niet alleen de resultaten, maar ook het proces en de participatie transparant zijn. De discussie maakt gebruik van de "**Toekomst Driehoek**" als raamwerk om de interacties tussen het verleden, heden, en toekomstige ambities te analyseren, gericht op het creëren van een meer **inclusieve**, **transparante** en **samenwerkende** wetenschappelijke praktijk.
 
 Belangrijke uitdagingen vanuit het heden omvatten de balans tussen **kennisveiligheid** en **openheid**, de erkenning van **uitsluitingsmechanismen** binnen het wetenschappelijk systeem, en de noodzaak om open science principes te integreren met **equity** en **inclusion**. De toekomst van open science wordt gekenmerkt door een visie op **toegankelijkheid**, **efficiëntie**, en een geïntegreerde erkenning van diverse rollen binnen het onderzoek- en onderwijsproces. De **universiteitsbibliotheek** speelt hierin een cruciale rol als facilitator van **kennisdeling** en **community engagement**.
 
