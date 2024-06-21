@@ -8,7 +8,7 @@ Opdrachtgever: Joeri Both\
 Ogranisatie: [Universiteitsbibliotheek, Vrije Universiteit Amsterdam](https://vu.nl/nl/over-de-vu/diensten/universiteitsbibliotheek)
 Datum: 2023-05-19
 
-[![DOI](https://zenodo.org/badge/10666049.svg)](https://zenodo.org/doi/10.5281/zenodo.10666049) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10666049.svg)](https://zenodo.org/doi/10.5281/zenodo.10666049) 
 
 [Project Page](https://ubvu.github.io/ub2030/) | [Listen on SoundCloud](https://soundcloud.com/vu-library-live/sets/ub2030-the-future-of-research-libraries) | [Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:527805591/sounds.rss) | [Listener Feedback](https://forms.office.com/e/KX08BEenpu)
 
