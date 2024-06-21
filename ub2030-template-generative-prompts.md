@@ -6,7 +6,9 @@ Output: ub2030-??-???-gpt4-step1-summary.md
 
 -------
 
-Prompt: Maak een beknopte Management Samenvatting van de uitgebreidere samenvatting van het transcript.  Beschrijf onder andere wie de gasten zijn en hun rol, wat het onderwerp is, wat de conclusies zijn:
+Prompt: Maak een beknopte Management Samenvatting van de uitgebreidere samenvatting van het transcript. 
+Start met heading ## Management Samenvatting 
+Beschrijf daar onder in een aantal paragrafen wie de **gasten** zijn, hun _rol_ binnen hun _organisatie_, wat het **onderwerp** is dat is besproken, wat de **kernpunten** zijn voor de _toekomst perspectieven_ en voor de _conclusies_.  
 
 Input: ub2030-??-???-transcript.md
 
