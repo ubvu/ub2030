@@ -56,3 +56,38 @@ Prompt: Geef een overzicht welke doelen van de verschillende lonkende perspectie
 Input: ub2030-[??]-[???]-gpt4-step2-perspective.md
 
 Output: ub2030-overall-gpt4-common-goals.md
+
+
+--------
+
+Prompt:
+Haal uit al deze markdown documenten de titel en de management samenvatting.
+Ga als volgt te werk.
+1. Sorteer de markdown bestanden op volgorde. 
+2. voor elk bestand:
+2a. Extraheer de exacte titel. Titels zijn aangeduid met heading 1 # 
+2b. Extraheer de exacte Management Samenvatting. Management samenvattingen zijn aangeduid met heading 2 ## Management Samenvatting. De Managment samenvatting loop tot de volgende heading 2 ##.
+
+Input: ub2030-??-???-gpt4-step1-summary.md
+
+Output: ub2030-gpt4-combined_management_summaries.md
+
+--------
+
+Prompt: 
+We gaan een gedachten experiment doen aan de hand van de Futures Triangle. een Methode uit innovatie managment op op basis van de beelden uit het verleden, heden en toekomst de meest waarschijnlijke toekomst te bepalen.
+Maak een tabel met zes kolommen : Onderwerp, Last van het Verleden, Momentum van het Heden, Gewenste Toekomst, Waarschijnlijke Toekomst, Advies om Gewenste Toekomst te Bereiken (binnen de kaders van de mogelijkheden van de Universiteitsbibliotheek).
+Maak rijen aan de hand van de Onderwerpen die in de input tekst wordt behandeld. 
+Vul de cellen van de Onderwerpen en de drie kolommen -  Last van het Verleden, Momentum van het Heden, Gewenste Toekomst - in op basis van de input tekst.
+Vul de een na laatste laatste kolom - Waarschijnlijke Toekomst - in door te beredeneren aan de hand van de drie voorgaande kolommen (Last van het Verleden, Momentum van het Heden, Gewenste Toekomst).
+Beschrijf voor de tabel een inleidende paragraaf dat beschrijft dat er een interview heeft plaats gevonden met de gasten met hun functie en waar ze werken, dat dit de belangrijkste onderwerpen zijn die werde nbesproeken, en dat aan de hand van de Futures Triangle de meest waarschijnlijke toekomst wordt verkend voor de Universiteitsbibliotheek in 2030, en wat er nodig is de gewenste toekomst te bereiken. 
+Beschrijf na de tabel een verklarende woorden lijst van de onderwerpen, op de volgende manier
+1. **Onderwerp:** ...
+  - **Definitie:** ...
+  - **Context:** ...
+Plaats bovenaan een titel ## Interview uitkomsten: Toekomst van (interview onderwerp)
+En maak kopjes bij de inleiding (### Inleiding), tabel (### Tabel: Toekomstverkenning van besproken onderwerpen met de Futures Triangle) en Onderwerpenlijst (### Verklarende Onderwerpenlijst)
+
+Input:  ub2030-??-???-gpt4-step1-summary.md
+
+Output: ub2030-rapport-hoofdstuk-??-???.md
