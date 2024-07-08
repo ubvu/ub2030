@@ -4,7 +4,7 @@ Input: ub2030-07-es-transcript.md
 
 Output: ub2030-07-es-gpt4-step1-summary.md
 
-# UB2030 | Toekomst van Education Support | Samenvatting
+# UB2030 | Toekomst van Education Support | GPT Samenvatting
 
 ## Management Samenvatting
 
