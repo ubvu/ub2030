@@ -1,4 +1,4 @@
-# UB2030 Innovatierapport: De Toekomst van de Universiteitsbibliotheek
+# UB2030 Innovatierapport: De Toekomst van de Universiteitsbibliotheek in 2030
 
 ## Voorwoord
 - Introductie van het rapport
@@ -52,3 +52,4 @@
 
 ## Over de Auteurs
 - Korte biografieën van de onderzoekers en auteurs
+
