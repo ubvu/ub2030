@@ -1,6 +1,5 @@
 # UB2030 | Toekomst van Research Data Management en Research Software Management | Samenvatting
 
-
 ## Management Samenvatting
 
 De podcast Aflevering 02 "Toekomst van Research Data Management en Research Software Management" biedt een uitgebreide blik op de huidige staat, uitdagingen en toekomstige richtingen van RDM en RSM. Met bijdragen van experts op dit gebied wordt benadrukt hoe essentieel RDM en RSM zijn voor de integriteit, transparantie en efficiëntie van wetenschappelijk onderzoek. 
