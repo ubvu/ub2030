@@ -41,10 +41,10 @@ Het doel van dit rapport is om een helder en actueel beeld te schetsen van de to
 
 ### Methodologie
 
-Om een gedetailleerd en genuanceerd beeld te krijgen van de toekomst van de universiteitsbibliotheek, hebben we een combinatie van kwalitatieve en kwantitatieve onderzoeksmethoden gebruikt. De belangrijkste onderzoeksmethoden waren:
+Om een gedetailleerd en genuanceerd beeld te krijgen van de toekomst van de universiteitsbibliotheek, hebben we de "futures triangle methode" toegepast tijdens onze interviews. Deze methode brengt verschillende perspectieven samen door gesprekken te voeren met afdelingshoofden en uitgenodigde externe experts. De belangrijkste onderzoeksmethoden waren:
 
-- **Interviews**: We hebben diepgaande gesprekken gevoerd met een breed scala aan experts, waaronder bibliothecarissen, academici, technologische innovators en gebruikers van bibliotheekdiensten. Deze interviews hebben waardevolle inzichten opgeleverd over de huidige stand van zaken en de verwachte ontwikkelingen.
-- **Literatuuronderzoek**: We hebben bestaande literatuur en rapporten over bibliotheekinnovaties en toekomstige trends geanalyseerd om een stevige theoretische basis voor ons onderzoek te bieden.
+- **Interviews**: We hebben gesprekken gevoerd met een breed scala aan experts, waaronder bibliothecarissen, academici, technologische innovators en gebruikers van bibliotheekdiensten. Deze interviews hebben waardevolle inzichten opgeleverd over de huidige stand van zaken en de verwachte ontwikkelingen.
+- **Literatuuronderzoek**: We hebben bestaande literatuur en rapporten over bibliotheekinnovaties en toekomstige trends geanalyseerd om een theoretische basis voor ons onderzoek te bieden.
 
 Deze methodologische benadering heeft ons in staat gesteld om een rijk en gedetailleerd rapport samen te stellen dat zowel breed als diepgaand is.
 
