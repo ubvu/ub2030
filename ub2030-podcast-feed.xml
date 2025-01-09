@@ -9,21 +9,116 @@
         <description>UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs.</description>
         <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-00-cover_image.png" />
 
-        <!-- Episode Information -->
+        <!-- Episodes -->
         <item>
-            <title>UB2030 - 05 - Toekomst van Research Support</title>
-            <itunes:author>Universiteitsbibliotheek Vrije Universiteit Amsterdam</itunes:author>
-            <description>UB 2030 is een podcast over de innovatie van de universiteitsbibliotheek door technologische veranderingen en verschuivingen in onderzoek en onderwijs. In aflevering 05 bespreken Maurice Vanderfeesten en David Oldenhof het onderwerp Research Support. Ze worden vergezeld door de gasten Joeri Both (VU Amsterdam) &amp; Aaron Tay (Singapore University of Management). Samenvatting: De podcast bespreekt het belang van Research Support en het lonkende perspectief waarbij bibliotheken staan op een kritisch keerpunt en moeten zich aanpassen aan het veranderende academische en technologische landschap om hun relevantie en effectiviteit te behouden. Tips van de gasten: De gasten hebben de volgende tips voor de luisteraars: Carpentry Workshops en Blogs door bibliothecarissen.</description>
-            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-audio.m4a" type="audio/x-m4a" />
-            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-audio.m4a</guid>
-            <pubDate>Mon, 10 Oct 2023 10:00:00 GMT</pubDate>
-			<language>en-us</language>
+            <title>UB2030 - Toekomst van Research Data Management</title>
+            <itunes:author>Tim Pinchetti, Meron Vermaas, Marcel Ras</itunes:author>
+            <description>The podcast delves into the current state, challenges, and future directions of research data and software management, emphasizing their importance for the integrity, transparency, and efficiency of scientific research.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-02-rdm/ub2030-02-rdm-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-02-rdm/ub2030-02-rdm-audio.m4a</guid>
+            <pubDate>Tue, 12 Mar 2024 10:00:00 GMT</pubDate>
             <itunes:explicit>No</itunes:explicit>
-            <itunes:duration>37:44:</itunes:duration>
-			<itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-05-rs/ub2030-05-rs-cover_image.jpg" />
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-02-rdm/ub2030-02-rdm-cover_image.jpg" />
         </item>
 
-        <!-- Add more <item> tags for each episode -->
+        <item>
+            <title>UB2030 - Toekomst van Research Intelligence</title>
+            <itunes:author>Matthijs de Zwaan, Rik Iping</itunes:author>
+            <description>This episode speculates about the ideal future of research intelligence in 2030, focusing on technological trends like AI and scientific network structures while addressing technological developments and historical challenges.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-research_intelligence-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-research_intelligence-audio.m4a</guid>
+            <pubDate>Tue, 19 Mar 2024 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-03-research_intelligence/ub2030-03-ri-cover_image.jpg" />
+        </item>
+
+        <item>
+            <title>UB2030 - Toekomst van Open Science</title>
+            <itunes:author>Sander Bos, Ludo Waltman</itunes:author>
+            <description>Explores the significance of Open Science and envisions a future where science is accessible, inclusive, coordinated, and innovative.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-audio.m4a</guid>
+            <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-04-open_science/ub2030-04-os-cover_image.jpg" />
+        </item>
+
+        <item>
+            <title>UB2030 - Toekomst van Research Support</title>
+            <itunes:author>Joeri Both, Aaron Tay</itunes:author>
+            <description>Discusses the evolving role of libraries in supporting increasingly complex research environments, the need for technological expertise, and the library's transition to being expertise networks within universities.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-05-research_support/ub2030-05-rs-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-05-research_support/ub2030-05-rs-audio.m4a</guid>
+            <pubDate>Tue, 19 Mar 2024 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-05-research_support/ub2030-05-rs-cover_image.jpg" />
+        </item>
+
+        <item>
+            <title>UB2030 - Toekomst van Digital Services and Infrastructure</title>
+            <itunes:author>Alexey Pristupa, Alistair Dunning</itunes:author>
+            <description>Explores the future of digital library services and infrastructures, focusing on the Future's Triangle, definitions of key concepts, and the interaction between present pressures and future aspirations in library innovation.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-06-digital_services_and_infrastructures/ub2030-06-dsi-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-06-digital_services_and_infrastructures/ub2030-06-dsi-audio.m4a</guid>
+            <pubDate>Tue, 8 Aug 2023 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-06-digital_services_and_infrastructures/ub2030-06-dsi-cover_image.png" />
+        </item>
+
+        <item>
+            <title>UB2030 - Toekomst van Education Support</title>
+            <itunes:author>Cees van Gent, Rens van der Vorst</itunes:author>
+            <description>Discusses the importance of human-centered education, the evolving role of technology in education, and the challenges of redefining educational values and methods to promote personal development and authentic learning.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-07-education_support/ub2030-07-es-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-07-education_support/ub2030-07-es-audio.m4a</guid>
+            <pubDate>Tue, 26 Mar 2023 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-07-education_support/ub2030-07-es-cover_image.jpg" />
+        </item>
+
+        <item>
+            <title>UB2030 - Toekomst van Special Collections</title>
+            <itunes:author>August den Hollander, Michiel Cock</itunes:author>
+            <description>Discusses the intersection of heritage and technology, the potential of digital collections, and the importance of inclusivity in preserving and presenting heritage, emphasizing both digital and physical experiences.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-08-special_collections/ub2030-08-sc-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-08-special_collections/ub2030-08-sc-audio.m4a</guid>
+            <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-08-special_collections/ub2030-08-sc-cover.jpg" />
+        </item>
+
+        <item>
+            <title>UB2030 - Toekomst van Information Services</title>
+            <itunes:author>Jan Struiksma</itunes:author>
+            <description>Explores the role of AI in education, focusing on its impact on research, learning, and teaching, while addressing challenges like accessibility, copyright, sustainability, and the evolving role of libraries in supporting open access and digital tools.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-09-information_services/ub2030-09-is-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-09-information_services/ub2030-09-is-audio.m4a</guid>
+            <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-09-information_services/ub2030-09-is-cover_image.jpg" />
+        </item>
+
+        <item>
+            <title>UB2030 - Toekomst van Bibliotheek als Plek</title>
+            <itunes:author>Aat Vos, Jan-Maarten Pauw</itunes:author>
+            <description>Examines the role of libraries as physical and digital meeting spaces, focusing on inclusivity, social interaction, and libraries as hubs for community engagement and knowledge sharing.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-10-library_desk_services/ub2030-10-lds-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-10-library_desk_services/ub2030-10-lds-audio.m4a</guid>
+            <pubDate>Tue, 2 Apr 2024 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-10-library_desk_services/ub2030-10-lds-cover_image.jpg" />
+        </item>
+
+        <item>
+            <title>UB2030 - Toekomst van Bibliotheek in de Maatschappij</title>
+            <itunes:author>Frank Kupper, Hilde van Wijngaarden</itunes:author>
+            <description>Highlights the transformative role of libraries in fostering dialogue and knowledge sharing, emphasizing their evolution towards open information dissemination and social engagement in science communication.</description>
+            <enclosure url="https://github.com/ubvu/ub2030/blob/main/ub2030-12-society/ub2030-12-society-audio.m4a" type="audio/x-m4a" />
+            <guid>https://github.com/ubvu/ub2030/blob/main/ub2030-12-society/ub2030-12-society-audio.m4a</guid>
+            <pubDate>Tue, 2 Apr 2023 10:00:00 GMT</pubDate>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:image href="https://github.com/ubvu/ub2030/blob/main/ub2030-12-society/ub2030-12-society-cover_image.jpg" />
+        </item>
 
     </channel>
 </rss>
